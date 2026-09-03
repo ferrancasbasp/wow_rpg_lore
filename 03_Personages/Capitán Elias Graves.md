@@ -1,4 +1,4 @@
-**Ubicación:** `[[Isla de la Convergencia]]` **Facción:** `[[Lordaeron]]` **Raza:** Humano
+**Ubicación:** [[Isla de la Convergencia]] **Facción:** [[Lordaeron]] **Raza:** Humano
 
 #### 👁️ Apariencia y Actitud
 
@@ -20,6 +20,6 @@
 
 > _Si los jugadores le preguntan, esto es lo que está dispuesto a revelar._
 
-- **Sobre La Prueba:** Sabe exactamente en qué consiste `[[La Prueba del Cénit]]` y les dará consejos útiles para que no mueran.
+- **Sobre La Prueba:** Sabe exactamente en qué consiste [[La Prueba del Cénit]] y les dará consejos útiles para que no mueran.
     
 - **Sobre Lordaeron:** Puede mencionar lo próspero que es su reino (sin entrar en conflicto directo con Ventormenta, pero mostrando orgullo). El hecho de conocerle facilitará a los jugadores la entrada a esa ciudad en el futuro.

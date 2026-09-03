@@ -6,22 +6,22 @@
 >     
 > - **Regla de Oro:** Todas las razas de Azeroth son bienvenidas. Cualquier conflicto de facciones está castigado con la expulsión inmediata.
 >     
-> - **El Objetivo:** Superar `[[La Prueba del Cénit]]` para unirse a la organización.
+> - **El Objetivo:** Superar [[La Prueba del Cénit]] para unirse a la organización.
 >     
 > 
 > **Personajes Notables (Cabecillas):**
 > 
-> - `[[Capitán Elias Graves]]` - Humano curtido, pragmático y con una cicatriz de quemadura vil. Es el cabecilla asignado al grupo de los jugadores y su contacto principal.
+> - [[Capitán Elias Graves]] - Humano curtido, pragmático y con una cicatriz de quemadura vil. Es el cabecilla asignado al grupo de los jugadores y su contacto principal.
 >     
-> - `[[El Alto Árbitro]]` - El jefe supremo de todos los cabecillas de la isla. Una figura de autoridad absoluta que rara vez baja a los muelles.
+> - [[El Alto Árbitro]] - El jefe supremo de todos los cabecillas de la isla. Una figura de autoridad absoluta que rara vez baja a los muelles.
 >     
-> - `[[Karga Furiadiestra]]` - Una cabecilla orca encargada de otro grupo de reclutas, que sirve como rival directa de Elias.
+> - [[Karga Furiadiestra]] - Una cabecilla orca encargada de otro grupo de reclutas, que sirve como rival directa de Elias.
 >     
 > 
 > **Lugares de Interés:**
 > 
-> - `[[Campamento de los Aspirantes]]` - Una zona de tiendas de campaña donde se mezclan todas las razas antes de la prueba.
+> - [[Campamento de los Aspirantes]] - Una zona de tiendas de campaña donde se mezclan todas las razas antes de la prueba.
 >     
-> - `[[El Foso de las Mareas]]` - El terreno escarpado donde se llevará a cabo el desafío de iniciación.
+> - [[El Foso de las Mareas]] - El terreno escarpado donde se llevará a cabo el desafío de iniciación.
 >     
 
