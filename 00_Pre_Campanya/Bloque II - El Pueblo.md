@@ -47,7 +47,7 @@ Los demás pueden empezar hablando con Mabel Solaj y acudir a la herrería de Ga
 
 Gavin no está especialmente dispuesto a colaborar o no parece tener prisa por atender el encargo. Su actitud puede servir como punto de entrada para descubrir que en el pueblo están ocurriendo otras cosas.
 
-Los jugadores también pueden acudir al ayuntamiento y hablar con el alcalde y con Danielle Zipstitch, la maga retirada.
+Los jugadores también pueden acudir al ayuntamiento y hablar con el alcalde, y a la tienda de costura de Danielle Zipstitch, la vieja maga.
 
 A través de estas conversaciones pueden comenzar a reconstruir el misterio de la antigua mina y los acontecimientos que están alterando la zona.
 
@@ -63,7 +63,7 @@ Mecánica detectivesca: cada PNJ tiene **un diálogo inicial** y **diálogos esp
 
 **Mabel Solaj (posadera)**
 
-- **[Inicial]** «¿Carne? Ni en el lago, ni en el bosque. Los animales se han vuelto raros. Y lo que no es raro, huye.»
+- **[Inicial]** «¿Carne? Ni en el lago, ni en el bosque. Los animales se han vuelto raros. Y lo que no es raro, huye.» *(Si preguntan por la maga:)* «¿Danielle? Era una maga de las de verdad, hace años. Ahora cose que te cose y no atiende a razones. No le hagas mucho caso, a veces no sabe ni dónde está.»
 - **[Especial — si preguntan por unos mineros]** «Sí que he visto un grupo de mineros. Dijeron que iban a hacerse ricos explotando una antigua mina de vera plata.»
 
 **Gavin Gnarltree (herrero)**
@@ -77,11 +77,13 @@ Mecánica detectivesca: cada PNJ tiene **un diálogo inicial** y **diálogos esp
 - **[Especial — si preguntan por el metal]** Explica que no tiene ningún sentido, porque él revisa y valida que **todas las entregas se han hecho a tiempo y han sido aceptadas**. Puede mostrarse una serie de entregas y recibos en la que el nombre de **Gavin** aparece en la última recepción (entregable imprimible).
 - **[Especial — si preguntan por la mina]** Saca un **mapa antiguo** y les pasa la ubicación de la mina a los jugadores.
 
-**Danielle Zipstitch (maga retirada, especialista en lo viejo)**
+**Danielle Zipstitch (vieja maga, ahora costurera, con demencia)**
 
-*(Borrador — por afinar.)*
-- **[Inicial]** «¿Yo? Llevo años sin meterme en líos. Pero no hace falta ser maga para ver que algo anda mal en ese bosque.»
-- **[Especial — si le muestran un tótem (el de Gavin o el del claro)]** Reconoce los grabados y las marcas de garra: «Esto no es de humanos ni de enanos. Es el sello de los furbolgs... y alguien lo ha puesto del revés.» Explica que los tótems son ahuyentadores antiguos, pero vueltos hacia donde no deberían.
+Una anciana en su taller de costura, rodeada de telas e hilos por todas partes. Envuelta en su mundo: a ratos lúcida, a ratos perdida. Habla en acertijos y vertiginosamente cambia de tema, pero **menciona las marcas que están por todas partes** (referencia a los tótems) aún sin que se la guíe.
+
+- **[Inicial]** Está con una aguja, cosiendo sin terminar nada. Suelta frases sueltas: «Los bosques tienen marcas, ¿sabes? Marcas para decir "no entres". Yo las veía en la tela, cuando el hilo hacía esto... así.» Traza un círculo de hilo en el aire. «Y ahora las marcas están por todas partes. Por todas. Alguien ha estado marcando los árboles. Las criaturas huyen de las marcas... pero las marcas las vuelven locas.»
+- **[Especial — el nombre de la maga, si se le pregunta directamente]** Parpadea, como si la trajeran de vuelta: «¿Maga? Yo... yo era maga. Hace mucho. Ahora solo cose. La magia me dejó las manos y me dejó la cabeza.» Y vuelve a su hilo, sin añadir más.
+- **[Especial — si le muestran un tótem (el de Gavin o el del claro)]** Reconoce los grabados de golpe, lúcida un momento: «¡Eso! Eso es. La marca. La he visto en los bosques de Ashenvale, cuando la magia todavía me hacía caso...» (se pierde). Con ayuda/inventario: «Es una marca para ahuyentar a las criaturas del bosque. Sirve para proteger... pero si se usa mal, las vuelve locas. Las desorienta. Las hace bajar de las colinas.» Pausa. «Alguien está usando la marca del revés, querida.»
 
 ### Reunión de los grupos
 
