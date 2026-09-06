@@ -12,6 +12,7 @@
 > _Este apartado te ayuda a recordar cómo actuar cuando hables por él._
 
 - **Voz y Manierismos:** Habla con un tono calmado, educado y muy articulado. Quizás tiene la costumbre de ofrecer siempre algo de beber o comer antes de hablar de negocios, mostrando una hospitalidad impecable.
+- **Bajo presión:** Sigue siendo articulado y educado, pero pierde la máscara serena: se convierte en un torbellino de disculpas corteses mientras corre. Recurre a eufemismos ("un poco de ímpetu", "el noventa y ocho por ciento") para restar drama a las cosas que asustarían al más pintado.
     
 - **El Secreto (¡Solo DM!):** Tiene una agenda oculta para ayudar a este grupo específico de reclutas. (Sus verdaderas motivaciones no se revelarán hasta mucho más adelante).
     
