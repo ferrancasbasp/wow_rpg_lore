@@ -1,4 +1,4 @@
-> > **Texto de Ambientación (Para leer en voz alta):** _Por escribir — cómo se ve y se siente el templo devorado por la jungla._
+> > **Texto de Ambientación (Para leer en voz alta — la entrada desde fuera):** _El bosque se espesa y enmudece. Los árboles crecen torcidos, con raíces que abrazan bloques de piedra como dedos agarrotados. Cuando la maleza se abre por fin, un frontón de ruinas se alza entre el follaje: piedra gris vetada de musgo, coronada por una hilera de runas Loa que se pegan a la pared como tinta seca. Dos columnas rotas flanquean una entrada sin puerta. En el dintel, un relieve gastado por los siglos entrelaza tres figuras: una pantera al acecho, un murciélago con las alas extendidas y una serpiente enroscada. El suelo que conduce al umbral está limpio de hojas, como si algo barrera la entrada cada noche. El silencio, aquí, no es de ausencia: es de espera._
 > > 
 > > **Características Clave:**
 > > 
