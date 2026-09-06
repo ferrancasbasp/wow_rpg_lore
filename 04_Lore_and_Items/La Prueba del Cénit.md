@@ -1,9 +1,10 @@
-> **¿Qué es?** La Prueba del Cénit es el desafío de iniciación de los aspirantes de la [[Isla de la Convergencia]]: una competición de resistencia, estrategia y combate basada en un sistema de puntuación. Es un acontecimiento de varios días en el que los equipos compiten por ganarse un lugar entre los elegidos de la organización.
+> **¿Qué es?** La Prueba del Cénit es el desafío de iniciación de los aspirantes de la [[Isla de la Convergencia]]: una competición de resistencia, estrategia y combate basada en un sistema de puntuación. Es un acontecimiento de **5 días** en el que los equipos compiten por ganarse un lugar entre los elegidos de [[La Coalición Moriche]].
 
 ## Cómo funciona
 
 - Todos los equipos de aspirantes son soltados en la isla con una cantidad de provisiones **extremadamente limitada**.
 - Para sobrevivir y superar el evento, los jugadores deben **explorar, gestionar sus recursos y conseguir puntos** de múltiples maneras a lo largo de los días.
+- **Los puntos se rolean:** la puntuación no es un baremo cerrado y establecido. Se adjudica según lo bien que se hagan las cosas (juicio del DM): la astucia, la gestión de recursos y el valor puntúan tanto como los resultados numéricos.
 
 ## 🏟️ La Arena (estilo Gurubashi)
 
@@ -25,6 +26,11 @@ Dado que la arena es una zona de muerte segura al principio, los jugadores deber
 - **Enfrentamientos PvE (Jugador contra Entorno):** Explorar la isla implica luchar contra enemigos, bestias nativas o peligros naturales. Superar estos encuentros otorga **puntos adicionales** y, lo más importante, permite **saquear equipo básico** (armas, armaduras o reliquias) que ayuda a igualar las fuerzas contra el grupo de la orca para cuando decidan asaltar la arena.
 - **[[El Laberinto de los Loa]]:** Ruinas troll con puzles espirituales (murales, ofrendas y tótems de los Loa) y un minijefe custodio. Su botín (armas y armaduras) iguala las fuerzas con los demás equipos.
 - **[[La Progenie Espina de Coral]]:** Clan de nagas neutrales que practica el trueque. Subiendo su reputación se accede a armas Naga y, siendo Venerado, a un **túnel submarino secreto** que flanquea el bloqueo de la arena.
+
+## 🏁 Desenlace
+
+- Quienes superan la Prueba dejan de ser aspirantes y pasan a formar parte de **[[La Coalición Moriche]]**.
+- Como **emisarios de la Coalición**, obtienen autoridad para viajar a **cualquier capital** de Azeroth y ser tratados, como mínimo, de manera **neutral con cualquier facción**.
 
 ## 🎭 Secretos (¡Solo DM!)
 

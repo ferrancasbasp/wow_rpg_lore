@@ -5,6 +5,7 @@
 ## 🏝️ La Isla de la Convergencia (escenario actual: la Prueba)
 
 - [[Isla de la Convergencia]]
+- [[La Coalición Moriche]]
 - [[La Prueba del Cénit]]
 - [[Campamento de los Aspirantes]]
 - [[El Foso de las Mareas]]

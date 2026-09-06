@@ -6,7 +6,7 @@
 > >     
 > > - **Regla de Oro:** Todas las razas de Azeroth son bienvenidas. Cualquier conflicto de facciones está castigado con la expulsión inmediata.
 > >     
-> > - **El Objetivo:** Superar [[La Prueba del Cénit]] para unirse a la organización.
+> > - **El Objetivo:** Superar [[La Prueba del Cénit]] para unirse a [[La Coalición Moriche]].
 > >     
 > > 
 > > **Personajes Notables (Cabecillas):**

@@ -1,4 +1,4 @@
-**Ubicación:** [[Isla de la Convergencia]] **Facción:** Por definir **Raza:** Por definir
+**Ubicación:** [[Isla de la Convergencia]] **Facción:** [[La Coalición Moriche]] **Raza:** Por definir
 
 #### 👁️ Apariencia y Actitud
 

@@ -1,4 +1,4 @@
-**Ubicación:** [[Isla de la Convergencia]] **Facción:** Por definir **Raza:** Orca
+**Ubicación:** [[Isla de la Convergencia]] **Facción:** [[La Coalición Moriche]] **Raza:** Orca
 
 #### 👁️ Apariencia y Actitud
 
