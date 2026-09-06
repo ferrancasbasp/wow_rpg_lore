@@ -19,6 +19,8 @@ La mañana de la partida, los ocho se reúnen en la pequeña catedral de Northsh
 
 ### Texto para leer en mesa
 
+> ![[Northshire.jpeg]]
+> 
 > _La catedral de Northshire es pequeña y humilde. La luz entra tenue por los ventanales y las bancas de madera están casi vacías. No hay grandes tapices ni estatuas de héroes: solo el sonido tranquilo de la mañana y el olor a incienso barato._
 > 
 > _El padre Paxton os espera al pie del altar, en silencio. Es un hombre mayor, de hábitos sencillos y manos trabajadas. No intenta convertir la despedida en un gran discurso: os ha visto crecer entre estas paredes y sabe que sois demasiado novatos para eso. Simplemente quiere asegurarse de que habéis entendido que, a partir de ahora, estaréis lejos de Northshire y tendréis que aprender a desenvolverse por vosotros mismos._
