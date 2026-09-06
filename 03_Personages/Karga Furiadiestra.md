@@ -6,6 +6,8 @@
 
 - **Personalidad:** Por escribir
 
+- **Rol en la Prueba:** Comanda la unidad de aspirantes que ejerce el bloqueo de [[La Prueba del Cénit|la arena del Cénit]]. Físicamente y tácticamente superior en los compases iniciales, su grupo mantiene un control de hierro sobre [[El Foso de las Mareas]].
+
 #### 🎭 Guía de Interpretación (Para el DM)
 
 > _Este apartado te ayuda a recordar cómo actuar cuando hables por ella._
