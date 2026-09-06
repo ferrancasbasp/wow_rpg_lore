@@ -18,17 +18,31 @@ Del lado de la carretera aparecen cuatro cerdos salvajes. Al otro lado, tres lob
 
 > «Rápido. Haced dos equipos.»
 
-## Primer combate — Emboscada doble
+## Primer combate — Emboscada doble (4 + 4)
 
 Los 8 jugadores se dividen en dos grupos de cuatro. Cada grupo se enfrenta a una amenaza diferente y el combate se desarrolla de forma paralela.
 
-### Grupo A — 4 cerdos salvajes
+> **Los jugadores:** Nv. 1-2 con equipo inicial.
+> **Cómo se juega:** Los PNJs están registrados en la app de combate (wow_rpg_angular, `npc-registry.ts`) y se despliegan desde la vista Maestro.
 
-Combate introductorio centrado en las reglas básicas de combate, movimiento, acciones y daño.
+### Grupo A — Jabalíes salvajes (4)
 
-### Grupo B — 3 lobos
+Además de las reglas básicas (movimiento, acciones, daño), esta línea sirve para probar los sangrados y la gestión de amenaza frontal contra enemigos con embestida.
 
-Combate introductorio con una mecánica ligeramente diferente. El objetivo es que el grupo tenga que prestar atención a la posición, coordinación o protección del carruaje.
+**Composición fijada:** 2 Dire Boar + 2 Mottled Boar (versión "amable" para nivel 1: los 2 Mottled sustituyen a los Dire).
+
+- **Dire Boar** (Nv. 5) — 152 PV, 20 armadura. Charge 16-28; Bite 12-22 con Sangrado (4/3 asaltos).
+- **Mottled Boar** (Nv. 3) — 85 PV, 10 armadura. Charge 10-18; Bite 8-14.
+
+### Grupo B — Lobeznos (4)
+
+Mecánica distinta: el Aullido debilita el ataque físico del grupo, así que tienen que decidir entre tumbar a los aulladores rápido o proteger al carruaje mientras aguantan el debuff.
+
+**Composición fijada:** 4 Wolf Pup.
+
+- **Wolf Pup** (Nv. 4) — 110 PV, 12 armadura. Bite 12-20; Howl 6-10 con Aullido (−3 a Ataque, 3 asaltos, apilable).
+
+> **Total de la emboscada:** 474 PV de jabalíes vs 440 PV de lobeznos — dos frentes de dificultad pareja, cada uno con su mecánica de playtest.
 
 ### Objetivo de playtest
 
