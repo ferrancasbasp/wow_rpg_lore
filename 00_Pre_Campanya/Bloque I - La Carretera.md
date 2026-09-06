@@ -50,13 +50,27 @@ Introducir el sistema mediante dos combates simultáneos y comprobar cómo funci
 
 ## Llegada a Goldshire
 
-Tras el combate y al llegar a Goldshire, Brannik informa de que deben aprovechar para descansar. Goldshire funciona como primera parada segura y como pequeño espacio de libertad para los jugadores.
+Tras el combate, Brannik informa de que deben aprovechar para descansar. Goldshire es la primera parada segura y el pequeño espacio de libertad de los jugadores.
 
 > «Aprovechad para dormir bien esta noche. De aquí en adelante, todo va a ser más largo. Y más peligroso.»
 
-Los jugadores reciben una descripción de Goldshire como una villa bonita, animada y llena de vida. Tienen tiempo libre para hacer lo que quieran: comprar, vender, buscar algún trabajo, conseguir alguna moneda, conocer gente, escuchar rumores o simplemente descansar.
+### Descripción de la villa (para leer en voz alta)
 
-Este tramo puede conceder algún punto de experiencia suelto si se considera apropiado, pero su función principal es ofrecer un respiro y permitir que los jugadores exploren libremente el mundo.
+> ![[Goldshire.jpeg]]
+> 
+> _El bosque se aclara por fin y Goldshire aparece ante vosotros: pequeña, ordenada y viva. Casas de madera de tejados rojizos se agrupan alrededor de una plaza de tierra batida donde un letrero señala los caminos en varias direcciones. La posada la domina todo: dos plantas de piedra y vigas, ventanas amarillentas y un constante ir y venir de gente por los escalones. Al otro lado de la plaza, el martillo de la herrería canta contra el yunque y un herrero alto negocia con un granjero apoyado en una carreta de sacos. Más allá empiezan los campos: granjas humeantes, cercas de madera y, al fondo, el brillo del agua —el lago— con siluetas sentadas en las orillas, cañas en mano. Alguien relincha en los establos, un grupo de viajeros ríe con sus jarras al fresco, y entre las mesas y puestos corretean niños. La mañana se ha vuelto mediodía, y nadie tiene prisa._ 
+
+### La parada libre — la villa no tiene cartel de acciones
+
+**Las acciones no se listan: se ven.** En lugar de "podéis comprar, pescar, trabajar, escuchar rumores...", se enseña la imagen y se hace UNA pregunta:
+
+> ¿Qué os llama la atención de la villa?
+
+Cada escena visible de la imagen es un gancho en sí mismo —el yunque del herrero, la posadera con las copas, las cañas junto al lago, el aviso clavado en el poste, los viajeros de la jarra, el establo— y ninguna viene señalizada como "misión". Los jugadores eligen por curiosidad, no por menú.
+
+**Regla de oro para el DM:** si el jugador apunta a un detalle, ese detalle tiene algo que ofrecer. El herrero puede encargar una pieza de hierro, la posadera paga a quien le sirva copas una hora, el pescador del lago pide ayuda o comparte el rincón de pesca, el poste de avisos esconde un primer rumor. No hace falta tener todo preparado: basta una reacción por gancho visible y convertir la propuesta del jugador en una pequeña escena.
+
+Este tramo puede conceder algún punto de experiencia suelto si se considera apropiado, pero su función principal es ofrecer un respiro y permitir que los jugadores exploren libremente el mundo. Una buena manera de cerrar la parada: cada jugador cuenta en una frase qué ha hecho y qué se lleva.
 
 ## Salida hacia Duskwood
 
