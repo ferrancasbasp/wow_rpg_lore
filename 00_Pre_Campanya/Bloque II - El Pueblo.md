@@ -117,4 +117,4 @@ Antes de continuar, los jugadores disponen de tiempo para hacer trueques, compra
 
 - Posibles fuentes de recursos: herrero, alquimista, cazador, tabernero, mercader y otros habitantes.
 - Las recompensas pueden conseguirse mediante dinero, trueques, materiales, favores o resolución de pequeños problemas.
-- Todavía no se han definido los objetos concretos.
+- Equipo genérico: no se especifican objetos concretos; el grupo consigue equipo, consumibles o mejoras según decide invertir en cada fuente.
