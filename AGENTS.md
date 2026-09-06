@@ -10,6 +10,7 @@ Ferran (el DM) pasa textos largos con información de campaña. Yo me encargo de
 
 | Carpeta | Contenido |
 |---|---|
+| `00_Pre_Campanya/` | One-shot de testeo (Azeroth clásico, oficial). **Sin wikilinks** salvo imágenes. Separada del canon de la campaña: no cruza enlaces con `01`-`06`. |
 | `01_Sesiones/` | Guiones narrativos por sesión: escenas, entradas, descripciones leídas en voz alta, secuencias de eventos. |
 | `02_Places/` | Notas de lugares: ambientación, características, personajes asociados, lugares de interés. |
 | `03_Personages/` | Fichas de personajes (NPC principalmente, pero también aliados/enemigos clave). |
