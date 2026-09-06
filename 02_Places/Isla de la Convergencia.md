@@ -11,6 +11,8 @@
 > > 
 > > **🗺️ Mapa de la Isla (vista de pájaro):**
 > > 
+> > ![[Isla de la Convergencia.jpeg]]
+> > 
 > > - **Sur — Puertos:** La formación rocosa donde atracan los barcos y desde donde se lanzan en catapulta a los aspirantes.
 > >     
 > > - **Bosque y más bosque:** El resto de la isla. Ocultas entre la vegetación: las **ruinas del Laberinto** al este; **cuevas rocosas** al oeste; y la [[El Foso de las Mareas|Arena Gurubashi]], más fácil de divisar, también al oeste.

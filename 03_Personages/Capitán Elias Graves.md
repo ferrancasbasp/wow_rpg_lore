@@ -6,7 +6,7 @@
     
 - **Personalidad:** Extremadamente amistoso, simpático y servicial. Ejerce de figura mentora y genuinamente parece velar por los intereses y el éxito del grupo.
     
-![[Gemini_Generated_Image_ra39ahra39ahra39.jpeg]]
+![[Capitán Elias Graves.jpeg]]
 #### 🎭 Guía de Interpretación (Para el DM)
 
 > _Este apartado te ayuda a recordar cómo actuar cuando hables por él._
