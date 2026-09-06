@@ -2,9 +2,9 @@
 
 #### 👁️ Apariencia y Actitud
 
-- **Físico:** _(Descripción para leer a los jugadores — por escribir)_
+- **Físico:** Figura lejana que se asoma a los balcones de las altas torres del puerto. Pesados ropajes dorados que destellan con la luz; demasiado lejos para distinguir sus rasgos.
 
-- **Personalidad:** Por escribir
+- **Personalidad:** Autoridad absoluta. Jefe supremo de todos los cabecillas de la isla. Sus gestos son medidos y solemnes, y nunca baja de las alturas: rara vez desciende a los muelles.
 
 #### 🎭 Guía de Interpretación (Para el DM)
 

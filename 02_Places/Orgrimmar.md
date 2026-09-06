@@ -15,3 +15,8 @@
 > > **Lugares de Interés:**
 > > 
 > > - (Por expandir — la gran forja, la Garganta, los cuarteles.)
+> >     
+> > 
+> > **🎭 Secretos del Lugar (¡Solo DM!):**
+> > 
+> > - Por escribir — secretos de la fortaleza y sus fisuras.

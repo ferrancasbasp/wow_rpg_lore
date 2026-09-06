@@ -9,4 +9,4 @@ Transcurridos unos tensos minutos, los capitanes empiezan a llamar a los recluta
 
 —Bien, bien... creo que este año me permitiré ser un poco más optimista. Tenéis pinta de saber valeros por vosotros mismos —os dice con un tono educado y tranquilo, dejando su pluma a un lado—. Por favor, presentaos. Habladme un poco de vosotros para que pueda ver cómo asignar mejor vuestras habilidades.
 
-Tiempo de los jugadores de hacer su primera introduccion y de tener una conversa sobre la [[La Prueba del Cénit]]
+Tiempo de los jugadores de hacer su primera introducción y de tener una conversación sobre [[La Prueba del Cénit]]

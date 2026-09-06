@@ -28,3 +28,5 @@
 > > **🎭 Secretos de la Facción (¡Solo DM!):**
 > > 
 > > - La agenda oculta de [[Doctor Victor Nefarius]] aún está por definir: es una de las grandes bazas de la campaña para el futuro.
+> >     
+> > - La oposición en las sombras: se rumorea que el viejo régimen no está del todo muerto. **Varian** —el monarca desplazado— y **Valira** pelean en las tabernas de la ciudad bajo pseudónimos, moviéndose lejos del control del Consejo. ¿Están conspirando o solo sobreviven? (Por escribir.)

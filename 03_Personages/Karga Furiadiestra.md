@@ -2,9 +2,9 @@
 
 #### 👁️ Apariencia y Actitud
 
-- **Físico:** _(Descripción para leer a los jugadores — por escribir)_
+- **Físico:** Orca grande y fornida. Presencia imponente: los reclutas tragan saliva y enderezan la postura a su paso, intentando impresionarla.
 
-- **Personalidad:** Por escribir
+- **Personalidad:** Cabecilla de carácter firme que comanda su propia unidad de reclutas. Rival directa de [[Capitán Elias Graves]], se toma la prueba como una competición personal.
 
 - **Rol en la Prueba:** Comanda la unidad de aspirantes que ejerce el bloqueo de [[La Prueba del Cénit|la arena del Cénit]]. Físicamente y tácticamente superior en los compases iniciales, su grupo mantiene un control de hierro sobre [[El Foso de las Mareas]].
 

@@ -15,3 +15,8 @@
 > > **Lugares de Interés:**
 > > 
 > > - (Por expandir.)
+> >     
+> > 
+> > **🎭 Secretos del Lugar (¡Solo DM!):**
+> > 
+> > - Por escribir — tensiones o secretos bajo la calma tauren.
