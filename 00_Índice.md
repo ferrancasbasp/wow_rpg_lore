@@ -35,6 +35,14 @@
 - [[El Alto Árbitro]]
 - [[La Progenie Espina de Coral]]
 
+### ⚔️ La Unidad de Karga (bloqueo de la arena)
+
+- [[Tahum Canto del Trueno]]
+- [[Zulri Pluma de Viento]]
+- [[Tizzy Tornasol]]
+- [[Jodin Aguja de Plata]]
+- [[Aelindis Filosilente]]
+
 ## 📅 Sesiones
 
 - [[Opening]]

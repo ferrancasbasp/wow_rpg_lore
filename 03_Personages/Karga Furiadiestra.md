@@ -8,6 +8,14 @@
 
 - **Rol en la Prueba:** Comanda la unidad de aspirantes que ejerce el bloqueo de [[La Prueba del Cénit|la arena del Cénit]]. Físicamente y tácticamente superior en los compases iniciales, su grupo mantiene un control de hierro sobre [[El Foso de las Mareas]].
 
+- **Su unidad (los que campean la arena):**
+    
+    - [[Tahum Canto del Trueno]] - tauren, shamán del gran mazo de hueso.
+    - [[Zulri Pluma de Viento]] - trol, cazador con la serpiente alada Zzari.
+    - [[Tizzy Tornasol]] - gnoma, bruja.
+    - [[Jodin Aguja de Plata]] - gnomo, pícaro.
+    - [[Aelindis Filosilente]] - elfa de la noche, guerrera silenciosa de espada a dos manos.
+
 #### 🎭 Guía de Interpretación (Para el DM)
 
 > _Este apartado te ayuda a recordar cómo actuar cuando hables por ella._
