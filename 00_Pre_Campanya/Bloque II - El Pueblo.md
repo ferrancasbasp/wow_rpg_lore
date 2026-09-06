@@ -38,9 +38,11 @@ A través de estas conversaciones pueden comenzar a reconstruir el misterio de l
 
 ### El hilo central (verdad bajo la superficie)
 
-> Los mineros reabrieron la mina antigua al agotarse el mineral de la capa superior. En su interior encontraron tótems de piedra grabados, mucho más antiguos que la propia mina. Se los llevaron arriba porque "ahuyentaban a las alimañas". No saben qué son: no son amuletos convenientes, están despertando a la fauna de la zona. Los furbolgs las perciben y abandonan sus madrigueras presas del pánico, desplazándose cada vez más cerca de Darkshire. Cuantos más tótems se activan, peor se pone.
+> La mina no es una mina humana abandonada: **es el hogar ancestral de los furbolgs**. Los mineros la reabrieron para sacar material y, para echarlos, están usando tótems de piedra grabados que encontraron dentro y que usan como "ahuyentadores". Los furbolgs, expulsados de su casa, se desplazan cada vez más cerca de Darkshire. No atacan por maldad: les han quitado su hogar y los tótems los marean y desorientan.
 
-**Regla de oro del misterio:** nadie ve el cuadro completo. Cada NPC tiene una pieza y no la ofrece entera: hay que preguntar, ganarse la confianza o conectar los cabos. **Con cualquier 3 de las 4 pistas se llega a la mina.**
+**Regla de oro del misterio:** nadie ve el cuadro completo. Cada NPC tiene una pieza y no la ofrece entera: hay que preguntar, ganarse la confianza o conectar los cabos. **Con cualquier 3 de las 4 pistas se llega a la mina.** (Ver "La mina" más abajo para el diseño completo.)
+
+### Las piezas (PNJ del pueblo)
 
 ### Las piezas (PNJ del pueblo)
 
@@ -66,7 +68,33 @@ Guion ligero: frase de entrada, reacciones clave y qué revelan. El DM puede abr
 
 ### Reunión de los grupos
 
-Las dos líneas conectan en un mismo misterio: los mineros han reabierto una antigua mina y están utilizando tótems para expulsar a los furbolgs de la zona, sin ser conscientes de que están provocando su desplazamiento hacia Darkshire. El grupo de caza aporta la confirmación visual (el tótem activo en el bosque, la fauna despertada); el de investigación aporta el contexto y el origen (la mina, los grabados, la documentación falsa).
+Las dos líneas conectan en un mismo misterio: los mineros han reabierto la mina —el antiguo hogar de los furbolgs— y están utilizando tótems para expulsar a los furbolgs y quedarse el material. El grupo de caza aporta la confirmación visual (el tótem activo en el bosque, la fauna despertada, el furbolg acorralado); el de investigación aporta el contexto y el origen (la mina, los grabados, la documentación falsa).
+
+### La mina — el antiguo hogar de los furbolgs
+
+**Qué encuentra el grupo:** una mina que a primera vista parece abandonada, pero no lo está. Las paredes de la capa profunda están cubiertas de **pinturas de furbolgs** y de otros objetos que delatan que esto fue su hogar y santuario: marcas de garras, huesos pintados, tótems pequeños y alguna herramienta tallada. Nadie de Darkshire lo sabía.
+
+**Tres zonas (sin combate dentro):**
+
+1. **Boca y galerías de entrada** — tótems retirados amontonados, herramientas de minería, y la prueba del conflicto: maderos apuntalados sobre pinturas de garras.
+2. **Capa profunda** — donde se concentran las pinturas más antiguas, un pequeño altar de piedra con ofrendas y el material que los mineros andan buscando.
+3. **Tramo sellado por derrumbe** — una galería bloqueada; tras ella, el rastro de los últimos furbolgs (un amuleto con plumas que servirá para identificarlos como víctimas, no como amenaza).
+
+**La amenaza es ambiental y moral, no de combate:**
+- La mina está inestable: derrumbes, crujidos, tramos que ceden.
+- Los tótems activos en la capa profunda tienden a marear/desorientar a quien se acerca demasiado.
+- El conflicto no se resuelve matando: se resuelve eligiendo qué hacer con los tótems y con los furbolgs (ver "Resolución" abajo).
+
+**Resolución — decisión real del grupo, sin guion.**
+
+El DM presenta el tablero y las consecuencias; el grupo decide:
+
+- **Quitar/neutralizar los tótems** — los furbolgs pueden volver; los mineros se quedan sin su "ahuyentador" y sin excusa para quedarse.
+- **Hablar con el capataz de la mina (Stranglethorn Mining Co. o el nombre que Ferran dé)** — negociar o denunciar el engaño; el pueblo puede cerrar la mina.
+- **No tocar nada** — el conflicto sigue y Darkshire seguirá sufriendo el desplazamiento (consecuencia futura).
+- **Quedarse con alguno de los objetos/pinturas** — cada objeto tiene un precio: información sobre los furbolgs, valor mercantil, o un tótem que quedará "vivo".
+
+El resultado de esta elección moldea la partida de Duskwood y la llegada al Bloque III (Deadwind Pass).
 
 ### Preparación antes de abandonar el pueblo
 
