@@ -28,42 +28,21 @@
 - Comienzan aproximadamente en nivel 1.
 - Los personajes del one-shot no serán los personajes de la campaña posterior.
 
-### Introducción — Northshire
+### Introducción — Northshire (Bloque 0)
 
-Los personajes forman parte de un pequeño grupo de aventureros novatos. Todavía no son héroes famosos ni cuentan con grandes hazañas a sus espaldas. Han recibido sus primeras oportunidades de trabajo gracias a su jefe, que considera que ya están preparados para encargos sencillos fuera de la seguridad de Northshire.
+La escena jugable de Northshire (reunión en la catedral, despedida del padre Paxton y encuentro con Brannik) está desarrollada en el **Bloque 0**. Aquí solo queda el resumen de diseño:
 
-La mañana de la partida, los ocho se reúnen en la pequeña catedral de Northshire. El lugar es humilde y tranquilo, muy lejos de los grandes templos y centros de poder de Azeroth. Allí les espera el padre Paxton, que ha sido quien los ha despedido y acompañado en sus primeros pasos como aventureros.
-
-El encargo parece sencillo: acompañar un carruaje desde Northshire hasta las Islas Dragón. El viaje será largo, pero la misión no parece especialmente peligrosa. El grupo debe ayudar a proteger la carga y al conductor durante el trayecto.
-
-El padre Paxton los observa mientras terminan de prepararse. No intenta convertir la despedida en un gran discurso. Son demasiado novatos para eso. Simplemente se asegura de que todos hayan entendido que, a partir de ahora, estarán lejos de Northshire y tendrán que aprender a desenvolverse por sí mismos.
-
-Antes de que abandonen la pequeña catedral, Paxton les dedica unas últimas palabras:
-
-> —No os voy a decir que tengáis miedo. El miedo sirve para algo. Os recuerda que todavía podéis morir. Pero tampoco dejéis que os impida hacer vuestro trabajo. Volved cuando terminéis, y quizá entonces podamos empezar a llamaros aventureros.
-
-Las puertas de la catedral se abren. Fuera les espera el carruaje que los llevará hacia el norte. Es el comienzo de un trabajo sencillo, de esos que normalmente nadie recuerda.
-
-Todavía no saben que será el último viaje de estos personajes.
-
-### Brannik — conductor del carruaje
-
-Al salir de la pequeña catedral, el Deputy Willem está formando al nuevo grupo de reclutas. Os ve salir, os saluda con la mano y señala hacia una carreta aparcada a poca distancia.
-
-Sentado en el pescante hay un enano de aspecto rudo, fumando tranquilamente una pipa mientras espera.
-
-Al acercaros, el enano os observa uno por uno antes de hablar.
-
-> «¿Sois los ocho? Perfecto. Quizá cuatro sobreviváis.»
-
-El enano da otra calada a la pipa y mira hacia el camino que sale de Northshire.
-
-> «Antes de partir... no sé si queréis despediros de alguien o hacer alguna última cosa. La travesía va a ser larga.»
+- El grupo se reúne en la pequeña catedral de Northshire, donde les espera el padre Paxton.
+- El encargo: acompañar un carruaje desde Northshire hasta las Islas Dragón.
+- El padre Paxton no intenta convertirlo en un gran discurso; se asegura de que entiendan que a partir de ahora estarán lejos de Northshire.
+- Las puertas de la catedral se abren y fuera les espera el carruaje.
+- Todavía no saben que será el último viaje de estos personajes.
 
 ## Estructura en bloques
 
 | Bloque | Contenido | Progresión | Función |
 |---|---|---|---|
+| **0 — Northshire** | Reunión en la catedral, despedida del padre Paxton, encuentro con Brannik | Nivel 1 | Premisa; primer espacio de libertad y conversaciones |
 | **I — La carretera** | Salida de Northshire, emboscada doble (4+4), Goldshire, entrada a Duskwood | Nivel 1 → ~5 | Primer contacto con el sistema; dos combates simultáneos |
 | **II — El pueblo** | Darkshire, crisis de suministros, cacería y parencia por la rueda; misterio de la mina y los furbolgs | Nivel 5 → ~10/15 | Investigación, doble línea (caza / pueblo) |
 | **III — Deadwind Pass** | Paso de montaña, noche, tres monolitos custodiados por élites | Nivel 15 → ~20+ | Gran prueba de combate avanzada; grupos divididos |
