@@ -8,6 +8,8 @@
 
 - **Rol en la Prueba:** Comanda la unidad de aspirantes que ejerce el bloqueo de [[La Prueba del Cénit|la arena del Cénit]]. Físicamente y tácticamente superior en los compases iniciales, su grupo mantiene un control de hierro sobre [[El Foso de las Mareas]].
 
+![[Arena Gurubashi - Interior.jpeg]]
+
 - **Su unidad (los que campean la arena):**
     
     - [[Tahum Canto del Trueno]] - tauren, shamán del gran mazo de hueso.

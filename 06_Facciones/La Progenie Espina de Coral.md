@@ -1,3 +1,5 @@
+> > ![[La Progenie Espina de Coral.jpeg]]
+> > 
 > > **Texto de Ambientación (Para leer en voz alta — el interior de la cueva-mercado):** _El agua, aquí dentro, está quieta y tibia. La boca de la cueva se abre en una cámara vasta donde la luz entra por fisuras del techo y cae en haces que se reflejan en pozas de un verde profundo. Sobre plataformas de coral y restos de naufragios, los naga han montado un mercado improvisado: cestos de algas secas que humean hierbas, barriles de agua dulce sellados con brea, montones de escamas pulidas y armas de coral endurecido alineadas sobre esteras... y, junto a ellas, mercancías de las que resulta difícil saber de dónde han salido. Las vendedoras no regatean con palabras: se entienden con silbidos largos y señales de las aletas mientras sus colas trazan remolinos lentos en las pozas. Quien llega sin miedo se va entendido. Quien llega con avaricia se va con menos._
 > > 
 > > **¿Qué es?** Un clan de **nagas neutrales exiliados** que habita en las pozas costeras de [[La Prueba del Cénit|la isla de la Prueba]]. Ignoran el oro del continente y basan su sociedad en la supervivencia pura.

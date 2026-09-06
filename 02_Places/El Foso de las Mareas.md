@@ -1,3 +1,5 @@
+> > ![[Arena Gurubashi - Entrada.jpeg]]
+> > 
 > > **Texto de Ambientación (Para leer en voz alta — aproximarse a la Arena):** _El clamor os llega antes que la vista: golpes que no son de yunque, gritos que no son de guerra y el rumor de un gentío que no sabéis si anima o apuesta. De entre la maleza, el foso se abre como una cicatriz en la tierra: un cráter ancho de paredes de roca oscura, con una arena de tierra apisonada que el sol ha pulido hasta volverla casi blanca. La rodean palizadas de madera reforzada con clavos herrumbrosos, coronadas de púas, de las que cuelgan estandartes con los colores de la Prueba al borde de la rotura. La entrada principal es una doble empalizada imponente y, a su sombra, unos aspirantes de la unidad de [[Karga Furiadiestra]] vigilan con aburrimiento mal disimulado y las manos muy cerca de las armas. No dan la bienvenida. No preguntan de qué equipo sois. Solo miran._
 > > 
 > > **Características Clave:**
