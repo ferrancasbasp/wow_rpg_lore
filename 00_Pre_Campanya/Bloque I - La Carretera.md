@@ -29,7 +29,7 @@ Los 8 jugadores se dividen en dos grupos de cuatro. Cada grupo se enfrenta a una
 
 Además de las reglas básicas (movimiento, acciones, daño), esta línea sirve para probar los sangrados y la gestión de amenaza frontal contra enemigos con embestida.
 
-**Composición fijada:** 2 Dire Boar + 2 Mottled Boar (versión "amable" para nivel 1: los 2 Mottled sustituyen a los Dire).
+**Composición fijada:** 2 Dire Boar + 2 Mottled Boar (versión "amable" para nivel 1: 2 de los 4 jabalíes se convierten en Mottled en vez de Dire).
 
 - **Dire Boar** (Nv. 5) — 152 PV, 20 armadura. Charge 16-28; Bite 12-22 con Sangrado (4/3 asaltos).
 - **Mottled Boar** (Nv. 3) — 85 PV, 10 armadura. Charge 10-18; Bite 8-14.
@@ -60,15 +60,25 @@ Tras el combate, Brannik informa de que deben aprovechar para descansar. Goldshi
 > 
 > _El bosque se aclara por fin y Goldshire aparece ante vosotros: pequeña, ordenada y viva. Casas de madera de tejados rojizos se agrupan alrededor de una plaza de tierra batida donde un letrero señala los caminos en varias direcciones. La posada la domina todo: dos plantas de piedra y vigas, ventanas amarillentas y un constante ir y venir de gente por los escalones. Al otro lado de la plaza, el martillo de la herrería canta contra el yunque y un herrero alto negocia con un granjero apoyado en una carreta de sacos. Más allá empiezan los campos: granjas humeantes, cercas de madera y, al fondo, el brillo del agua —el lago— con siluetas sentadas en las orillas, cañas en mano. Alguien relincha en los establos, un grupo de viajeros ríe con sus jarras al fresco, y entre las mesas y puestos corretean niños. La mañana se ha vuelto mediodía, y nadie tiene prisa._ 
 
+### Gente de Goldshire
+
+PNJ canónicos (Warcraft clásico) con su nombre y profesión. Ferran puede asignar una voz, un tic y un rumores por PNJ, y usar los ganchos de la parada libre para meterlos en escena.
+
+- **Innkeeper Farley** — Posadero de la Posada del Orgullo del León. Sabe todo lo que circula por el camino; siempre encuentra una habitación libre y deja caer el rumor del momento.
+- **Smith Argus** — Herrero de la villa. Tiene el martillo ocupado todo el día; encarga piezas de hierro o pide ayuda con el yunque a cambio de una buena forja.
+- **Marshal Dughan** — Mariscal de Goldshire y cabeza de la milicia local. Viejo soldado que vigila los caminos de Elwynn y reparte encargos de guardia.
+- **Khelden Bremen** — Maestro de las artes arcanas (entrenador de magos). Reservado, con la paciencia de quien ha visto arder a muchos aprendices.
+- **Maxan Anvol** — Entrenador de guerreros. Firme, de pocas palabras y siempre dispuesto a corregir la postura de quien empuña un arma.
+
 ### La parada libre — la villa no tiene cartel de acciones
 
 **Las acciones no se listan: se ven.** En lugar de "podéis comprar, pescar, trabajar, escuchar rumores...", se enseña la imagen y se hace UNA pregunta:
 
 > ¿Qué os llama la atención de la villa?
 
-Cada escena visible de la imagen es un gancho en sí mismo —el yunque del herrero, la posadera con las copas, las cañas junto al lago, el aviso clavado en el poste, los viajeros de la jarra, el establo— y ninguna viene señalizada como "misión". Los jugadores eligen por curiosidad, no por menú.
+Cada escena visible de la imagen es un gancho en sí mismo —el yunque del herrero, Farley con las copas, las cañas junto al lago, el aviso clavado en el poste, los viajeros de la jarra, el establo— y ninguna viene señalizada como "misión". Los jugadores eligen por curiosidad, no por menú.
 
-**Regla de oro para el DM:** si el jugador apunta a un detalle, ese detalle tiene algo que ofrecer. El herrero puede encargar una pieza de hierro, la posadera paga a quien le sirva copas una hora, el pescador del lago pide ayuda o comparte el rincón de pesca, el poste de avisos esconde un primer rumor. No hace falta tener todo preparado: basta una reacción por gancho visible y convertir la propuesta del jugador en una pequeña escena.
+**Regla de oro para el DM:** si el jugador apunta a un detalle, ese detalle tiene algo que ofrecer. Smith Argus puede encargar una pieza de hierro, el posadero Farley paga a quien le sirva copas una hora, el pescador del lago pide ayuda o comparte el rincón de pesca, el poste de avisos esconde un primer rumor. No hace falta tener todo preparado: basta una reacción por gancho visible y convertir la propuesta del jugador en una pequeña escena.
 
 Este tramo puede conceder algún punto de experiencia suelto si se considera apropiado, pero su función principal es ofrecer un respiro y permitir que los jugadores exploren libremente el mundo. Una buena manera de cerrar la parada: cada jugador cuenta en una frase qué ha hecho y qué se lleva.
 
