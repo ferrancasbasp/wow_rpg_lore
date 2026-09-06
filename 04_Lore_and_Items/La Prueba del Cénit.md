@@ -2,7 +2,7 @@
 
 ## Cómo funciona
 
-- Todos los equipos de aspirantes son soltados en la isla con una cantidad de provisiones **extremadamente limitada**.
+- Todos los equipos de aspirantes son **lanzados en catapulta** desde el puerto de la isla, amortiguando el aterrizaje con unos [[Elixir Nogenthforgen|elixires de caída lenta]]. Llegan con una cantidad de provisiones **extremadamente limitada**.
 - Para sobrevivir y superar el evento, los jugadores deben **explorar, gestionar sus recursos y conseguir puntos** de múltiples maneras a lo largo de los días.
 - **Los puntos se rolean:** la puntuación no es un baremo cerrado y establecido. Se adjudica según lo bien que se hagan las cosas (juicio del DM): la astucia, la gestión de recursos y el valor puntúan tanto como los resultados numéricos.
 

@@ -22,4 +22,6 @@
 > > 
 > > **🎭 Secretos de la Facción (¡Solo DM!):**
 > > 
-> > - Por escribir — su verdadera naturaleza, propósito, financiación y quién es realmente el Árbitro. (Nombre del grupo provisional — por confirmar.)
+> > - **El nombre lo dice todo (para quien sepa mirar):** "Moriche" es un anagrama de **Chromie**. Detrás de la creación de la Coalición está el famoso dragón de bronce. Su papel exacto, sus motivaciones y su relación con el Árbitro: por escribir.
+> >     
+> > - Por escribir — la verdadera naturaleza de la Coalición, su propósito y quién la financia; y quién es realmente [[El Alto Árbitro]].

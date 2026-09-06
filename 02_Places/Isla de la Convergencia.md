@@ -9,6 +9,13 @@
 > > - **El Objetivo:** Superar [[La Prueba del Cénit]] para unirse a [[La Coalición Moriche]].
 > >     
 > > 
+> > **🗺️ Mapa de la Isla (vista de pájaro):**
+> > 
+> > - **Sur — Puertos:** La formación rocosa donde atracan los barcos y desde donde se lanzan en catapulta a los aspirantes.
+> >     
+> > - **Bosque y más bosque:** El resto de la isla. Ocultas entre la vegetación: las **ruinas del Laberinto** al este; **cuevas rocosas** al oeste; y la [[El Foso de las Mareas|Arena Gurubashi]], más fácil de divisar, también al oeste.
+> >     
+> > 
 > > **Personajes Notables (Cabecillas):**
 > > 
 > > - [[Capitán Elias Graves]] - Humano curtido, pragmático y con una cicatriz de quemadura vil. Es el cabecilla asignado al grupo de los jugadores y su contacto principal.
