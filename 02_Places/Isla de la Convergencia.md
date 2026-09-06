@@ -23,5 +23,9 @@
 > - [[Campamento de los Aspirantes]] - Una zona de tiendas de campaña donde se mezclan todas las razas antes de la prueba.
 >     
 > - [[El Foso de las Mareas]] - El terreno escarpado donde se llevará a cabo el desafío de iniciación.
+    
+- [[El Laberinto de los Loa]] - Ruinas troll devoradas por la jungla con puzles espirituales y botín.
+    
+- Las pozas costeras donde se asienta [[La Progenie Espina de Coral]] - clan de nagas neutrales que trafica con recursos locales.
 >     
 

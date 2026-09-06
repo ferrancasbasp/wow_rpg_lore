@@ -23,6 +23,8 @@ Dado que la arena es una zona de muerte segura al principio, los jugadores deber
 
 - **Caza y recolección de suministros:** Buscar alijos ocultos, agua y comida por la isla. No solo es vital para no morir de inanición debido al escaso inventario inicial, sino que asegurar ciertos **suministros raros** suma puntos al equipo.
 - **Enfrentamientos PvE (Jugador contra Entorno):** Explorar la isla implica luchar contra enemigos, bestias nativas o peligros naturales. Superar estos encuentros otorga **puntos adicionales** y, lo más importante, permite **saquear equipo básico** (armas, armaduras o reliquias) que ayuda a igualar las fuerzas contra el grupo de la orca para cuando decidan asaltar la arena.
+- **[[El Laberinto de los Loa]]:** Ruinas troll con puzles espirituales (murales, ofrendas y tótems de los Loa) y un minijefe custodio. Su botín (armas y armaduras) iguala las fuerzas con los demás equipos.
+- **[[La Progenie Espina de Coral]]:** Clan de nagas neutrales que practica el trueque. Subiendo su reputación se accede a armas Naga y, siendo Venerado, a un **túnel submarino secreto** que flanquea el bloqueo de la arena.
 
 ## 🎭 Secretos (¡Solo DM!)
 
