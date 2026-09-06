@@ -71,7 +71,7 @@ Mecánica detectivesca: cada PNJ tiene **un diálogo inicial** y **diálogos esp
 - **[Inicial]** Os dice que la rueda tardará: está falto de hierro. Pero que la tendrá en unos días.
 - **[Especial — si se le acusa de ser culpa suya la escasez de hierro]** Confiesa que ha confeccionado picos y equipo para una compañía minera que le ha pagado en negro. (Stranglethorn Mining Co.)
 
-**El alcalde**
+**Sirra, el alcalde**
 
 - **[Inicial]** Charla normal larga y aburrida: burocracia, tiempo, quejas de los habitantes. Nada útil por sí sola.
 - **[Especial — si preguntan por el metal]** Explica que no tiene ningún sentido, porque él revisa y valida que **todas las entregas se han hecho a tiempo y han sido aceptadas**. Puede mostrarse una serie de entregas y recibos en la que el nombre de **Gavin** aparece en la última recepción (entregable imprimible).
