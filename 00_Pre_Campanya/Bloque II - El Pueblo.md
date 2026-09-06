@@ -47,7 +47,7 @@ Los demás pueden empezar hablando con Mabel Solaj y acudir a la herrería de Ga
 
 Gavin no está especialmente dispuesto a colaborar o no parece tener prisa por atender el encargo. Su actitud puede servir como punto de entrada para descubrir que en el pueblo están ocurriendo otras cosas.
 
-Los jugadores también pueden acudir al ayuntamiento y hablar con Millstipe y con Sirra Von'Indi.
+Los jugadores también pueden acudir al ayuntamiento y hablar con el alcalde y con Danielle Zipstitch, la maga retirada.
 
 A través de estas conversaciones pueden comenzar a reconstruir el misterio de la antigua mina y los acontecimientos que están alterando la zona.
 
@@ -57,33 +57,35 @@ A través de estas conversaciones pueden comenzar a reconstruir el misterio de l
 
 **Regla de oro del misterio:** nadie ve el cuadro completo. Cada NPC tiene una pieza y no la ofrece entera: hay que preguntar, ganarse la confianza o conectar los cabos. **Con cualquier 3 de las 4 pistas se llega a la mina.** (Ver "La mina" más abajo para el diseño completo.)
 
-### Las piezas (PNJ del pueblo)
+### Dossier de investigación — diálogos por PNJ
 
-### Las piezas (PNJ del pueblo)
+Mecánica detectivesca: cada PNJ tiene **un diálogo inicial** y **diálogos especiales** que solo salen si se le presenta una prueba o se le presiona. Los diálogos se pueden imprimir y entregar a los jugadores según avancen; el DM solo reacciona cuando piden algo concreto.
 
-Guion ligero: frase de entrada, reacciones clave y qué revelan. El DM puede abreviar según la conversación.
+**Mabel Solaj (posadera)**
 
-**Mabel Solaj (posadera) — la pieza 1, la superficie.**
-- Frase de entrada: «¿Carne? Ni en el lago, ni en el bosque. Desde que reabrieron la mina, los animales se han vuelto raros. Y lo que no es raro, huye.»
-- Si se le pregunta por la mina, baja la voz: «Antes de que los mineros volvieran, esto era un pueblo tranquilo. Ahora no duermo sin oír algo aullando en la linde. Y esos furbolgs nunca bajaban de las colinas. Ya lo hacen.»
-- Revela: furbolgs apareciendo de noche en granjas cada vez más cerca; mineros que presumen de un "colmillo de la suerte" encontrado en la mina; rumor de "cosas raras" en la reapertura.
+- **[Inicial]** «¿Carne? Ni en el lago, ni en el bosque. Los animales se han vuelto raros. Y lo que no es raro, huye.»
+- **[Especial — si preguntan por unos mineros]** «Sí que he visto un grupo de mineros. Dijeron que iban a hacerse ricos explotando una antigua mina de vera plata.»
 
-**Gavin Gnarltree (herrero) — la pieza 2, la más jugosa.**
-- Frase de entrada (sobre la rueda): «No es que no tenga tiempo. Es que no tengo ganas de hacer más trabajo para esa gente. La rueda sí, esa viene civilizada... la mina no.»
-- Si se gana su confianza, saca de bajo el yunque un **tótem partido por la mitad**: «Me lo trajeron para refundir. Yo no toco eso. Ese grabado no es de enano ni de elfo, ni de nada forjado en esta tierra.»
-- Revela: un tótem físico (pieza clave para el grupo de caza identificar el que encuentren en el bosque); que los mineros trabajan la "capa profunda"; que la reapertura no le cuadra desde el principio.
+**Gavin Gnarltree (herrero)**
 
-**Millstipe (mayordomo del almacén) — la pieza 3, la logística.**
-- Frase de entrada: «Antes el inventario me cuadraba. Ahora el bosque no da de sí: las manadas se movieron justo cuando ellos empezaron a perforar. No es casualidad, pero nadie me escucha.»
-- Revela: sabe **dónde empieza el camino viejo de la mina** (una senda olvidada en el bosque, la marca de localización para el grupo investigador); que el desplazamiento de la fauna coincide con la reapertura; puede marcar el camino en un mapa.
+- **[Inicial]** Os dice que la rueda tardará: está falto de hierro. Pero que la tendrá en unos días.
+- **[Especial — si se le acusa de ser culpa suya la escasez de hierro]** Confiesa que ha confeccionado picos y equipo para una compañía minera que le ha pagado en negro. (Stranglethorn Mining Co.)
 
-**Sirra Von'Indi (ayuntamiento) — la pieza 4, la oficial.**
-- Frase de entrada: «Oficialmente, la reapertura está en regla. Oficialmente. Pero esa mina está sellada desde hace siglos por una razón, y yo no firmé nada que autorizara esto.»
-- Revela: la mina fue sellada hace siglos "por una razón" (sin especificar); el permiso de reapertura no pasó por el ayuntamiento (firma que no es la suya); la ubicación oficial de la mina en los mapas municipales.
+**El alcalde**
+
+- **[Inicial]** Charla normal larga y aburrida: burocracia, tiempo, quejas de los habitantes. Nada útil por sí sola.
+- **[Especial — si preguntan por el metal]** Explica que no tiene ningún sentido, porque él revisa y valida que **todas las entregas se han hecho a tiempo y han sido aceptadas**. Puede mostrarse una serie de entregas y recibos en la que el nombre de **Gavin** aparece en la última recepción (entregable imprimible).
+- **[Especial — si preguntan por la mina]** Saca un **mapa antiguo** y les pasa la ubicación de la mina a los jugadores.
+
+**Danielle Zipstitch (maga retirada, especialista en lo viejo)**
+
+*(Borrador — por afinar.)*
+- **[Inicial]** «¿Yo? Llevo años sin meterme en líos. Pero no hace falta ser maga para ver que algo anda mal en ese bosque.»
+- **[Especial — si le muestran un tótem (el de Gavin o el del claro)]** Reconoce los grabados y las marcas de garra: «Esto no es de humanos ni de enanos. Es el sello de los furbolgs... y alguien lo ha puesto del revés.» Explica que los tótems son ahuyentadores antiguos, pero vueltos hacia donde no deberían.
 
 ### Reunión de los grupos
 
-Las dos líneas conectan en un mismo misterio: los mineros han reabierto la mina —el antiguo hogar de los furbolgs— y están utilizando tótems para expulsar a los furbolgs y quedarse el material. El grupo de caza aporta la confirmación visual (el tótem activo en el bosque, la fauna despertada, el furbolg acorralado); el de investigación aporta el contexto y el origen (la mina, los grabados, la documentación falsa).
+Las dos líneas conectan en un mismo misterio: los mineros han reabierto la mina —el antiguo hogar de los furbolgs— y están utilizando tótems para expulsar a los furbolgs y quedarse el material. El grupo de caza aporta la confirmación visual (el tótem activo en el bosque, la fauna despertada, el furbolg acorralado); el de investigación aporta el contexto y el origen (los testimonios, los recibos con el nombre de Gavin, el mapa del alcalde y el sello que identifica Danielle).
 
 ### La mina — el antiguo hogar de los furbolgs
 
