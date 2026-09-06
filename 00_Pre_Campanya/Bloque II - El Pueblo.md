@@ -90,7 +90,7 @@ Las dos líneas conectan en un mismo misterio: los mineros han reabierto la mina
 El DM presenta el tablero y las consecuencias; el grupo decide:
 
 - **Quitar/neutralizar los tótems** — los furbolgs pueden volver; los mineros se quedan sin su "ahuyentador" y sin excusa para quedarse.
-- **Hablar con el capataz de la mina (Stranglethorn Mining Co. o el nombre que Ferran dé)** — negociar o denunciar el engaño; el pueblo puede cerrar la mina.
+- **Hablar con el capataz de la mina (Stranglethorn Mining Co.)** — negociar o denunciar el engaño; el pueblo puede cerrar la mina.
 - **No tocar nada** — el conflicto sigue y Darkshire seguirá sufriendo el desplazamiento (consecuencia futura).
 - **Quedarse con alguno de los objetos/pinturas** — cada objeto tiene un precio: información sobre los furbolgs, valor mercantil, o un tótem que quedará "vivo".
 
