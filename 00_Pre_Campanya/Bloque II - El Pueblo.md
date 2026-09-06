@@ -26,6 +26,21 @@ El grupo puede dividirse según considere oportuno. Mientras unos se encargan de
 
 Los aventureros encargados de conseguir carne deberán adentrarse en las zonas boscosas cercanas. La caza está siendo especialmente difícil y el bosque se encuentra inquieto. Esta línea llevará al descubrimiento de los tótems, los furbolgs y el extraño comportamiento de la fauna.
 
+> **Enemigos (ya en la app, `npc-registry.ts`):**
+> - **Wolf Alpha** (Nv. 9) — 285 PV, 22 armadura. Savage Bite 24-38 con Sangrado (6/3); Howl 10-16 con Aullido (−5 ataque, 3 asaltos).
+> - **Furbolg Lancer** (Nv. 9) — 300 PV, 25 armadura. Lanzada 20-34; Alanceo 14-24.
+> - **Furbolg Espadachín** (Nv. 11) — 450 PV, 55 armadura. Espadazo 30-48; Golpe de Escudo 18-28 con Aturdido (1 asalto). Solo si la tensión sube.
+
+### Cómo se desarrolla la cacería
+
+Progresión de la línea en tres fases, planteada como "rastrear y cazar", no como una sucesión de encuentros:
+
+1. **Rastreo y caza mayor.** Los cazadores siguen rastros hasta encontrar presas, pero las manadas se han vuelto cautas: los lobos huyen de los tótems en lugar de merodear como siempre. Encuentran de noche a un **Wolf Alpha** solitario apartado de la manada (arrostrando una ladera alejada de la linde). Combate de playtest contra hueste con sangrado y aullido. Si mata, consiguen carne de sobra — y un vistazo: el lobo llevaba arrancado en el pelaje un fragmento de madera quemada que huele a los tótems.
+
+2. **El tótem activo.** Siguiendo el rastro de los lobos hacia el este, el grupo llega a un claro con un **tótem de piedra grabado** clavado en el centro y el suelo removido en círculo a su alrededor. Acercarse produce mareo (desorientación, sensación de ser observado). Cerca, un **Furbolg Lancer** merodea hostil pero no ataca de inmediato: gruñe, mira el tótem, retrocede. Es la primera prueba de que la fauna y los furbolgs bailean alrededor del artefacto, no del grupo.
+
+3. **El enfrentamiento (o la negociación).** Si el grupo intenta tocar, romper o llevarse el tótem, el furbolg ataca (defiende su territorio de la corrupción), al que pueden sumarse más furbolgs si la tensión escala. Si el grupo se retira, usa un tótem identificado de Gavin para reconocer las marcas, o intenta tranquilizar al furbolg (dejando armas, compartiendo carne, alejándose del tótem), el furbolg puede guiarlos o dejar vía: son hostiles por desesperación, no por malicia. La resolución de aquí conecta con "La mina" (lo que confirman en el bosque es lo que el grupo de investigación reconstruye en el pueblo).
+
 ### Grupo A — La posada, la herrería y el ayuntamiento
 
 Los demás pueden empezar hablando con Mabel Solaj y acudir a la herrería de Gavin Gnarltree para conseguir una rueda nueva para el carruaje.
