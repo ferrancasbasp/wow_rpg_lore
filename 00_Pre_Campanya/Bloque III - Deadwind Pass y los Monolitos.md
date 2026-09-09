@@ -10,7 +10,7 @@ La carreta abandona Duskwood con la rueda nueva y los suministros necesarios par
 
 ## Deadwind Pass
 
-3000 de exp por descubrir
+4000 de exp por descubrir
 
 > «El camino continúa hasta Deadwind Pass. Poco antes de llegar, algo llama vuestra atención: un enorme buitre está posado sobre la rama de un árbol, observándoos en silencio.»
 
@@ -38,6 +38,8 @@ Brannik decide que ya es demasiado tarde para continuar con seguridad. El grupo 
 
 La noche transcurre sin grandes incidentes. Los personajes pueden recuperar fuerzas y prepararse para el siguiente tramo.
 
+Acciones RPG de los jugadores 6000 - 10000 exp
+
 ## La mañana siguiente — El problema
 
 Por la mañana, Brannik reúne al grupo y les explica finalmente lo que ha descubierto durante la noche y gracias a los cuervos.
@@ -61,6 +63,8 @@ Brannik señala tres puntos diferentes del mapa.
 - La prueba está diseñada para que los tres encuentros se desarrollen simultáneamente y para comprobar emparejamientos, fortalezas individuales, composición de grupos, gestión de recursos y capacidad de combate sin tener a todo el grupo reunido.
 - Los monolitos deben activarse dentro de una ventana temporal limitada para que el antiguo mecanismo funcione correctamente. La mecánica exacta de simultaneidad queda pendiente de diseño.
 
+Vender a los 3 
+100.000 de exp
 ### Función de playtest
 
 Este bloque es la gran prueba de combate avanzada antes de llegar a las Islas Dragón. Cada enemigo élite debe estar diseñado para poner a prueba una faceta distinta del sistema y permitir que los personajes individuales brillen.
