@@ -145,7 +145,7 @@ Las dos líneas conectan en un mismo misterio: los mineros han reabierto la mina
 
 ### La mina — el antiguo hogar de los furbolgs
 
-400 exp de exploracion
+2000 exp de exploracion
 
 **Qué encuentra el grupo:** una mina que a primera vista parece abandonada, pero no lo está. Las paredes de la capa profunda están cubiertas de **pinturas de furbolgs** y de otros objetos que delatan que esto fue su hogar y santuario: marcas de garras, huesos pintados, tótems pequeños y alguna herramienta tallada. Nadie de Darkshire lo sabía.
 
@@ -171,7 +171,7 @@ El DM presenta el tablero y las consecuencias; el grupo decide:
 
 El resultado de esta elección moldea la partida de Duskwood y la llegada al Bloque III (Deadwind Pass).
 
-4000 de exp al acabar
+25000 de exp al acabar
 
 ### Preparación antes de abandonar el pueblo
 
@@ -181,4 +181,4 @@ Antes de continuar, los jugadores disponen de tiempo para hacer trueques, compra
 - Las recompensas pueden conseguirse mediante dinero, trueques, materiales, favores o resolución de pequeños problemas.
 - Equipo genérico: no se especifican objetos concretos; el grupo consigue equipo, consumibles o mejoras según decide invertir en cada fuente.
 
-Algo de exp y loo en teoria 1000 - 1500 exp
+Algo de exp y loo en teoria 8000 - 12000 exp

@@ -10,7 +10,7 @@ La carreta abandona Duskwood con la rueda nueva y los suministros necesarios par
 
 ## Deadwind Pass
 
-1000 de exp por descubrir
+3000 de exp por descubrir
 
 > «El camino continúa hasta Deadwind Pass. Poco antes de llegar, algo llama vuestra atención: un enorme buitre está posado sobre la rama de un árbol, observándoos en silencio.»
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Pre_Campanya/Bloque II - El Pueblo.md",
+                "file": "00_Pre_Campanya/Bloque III - Deadwind Pass y los Monolitos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bloque II - El Pueblo"
+              "title": "Bloque III - Deadwind Pass y los Monolitos"
             }
           },
           {
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_Pre_Campanya/Bloque II - El Pueblo.md",
+                "file": "00_Pre_Campanya/Bloque III - Deadwind Pass y los Monolitos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_Pre_Campanya/Bloque II - El Pueblo.md",
+                "file": "00_Pre_Campanya/Bloque III - Deadwind Pass y los Monolitos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_Pre_Campanya/Bloque II - El Pueblo.md",
+                "file": "00_Pre_Campanya/Bloque III - Deadwind Pass y los Monolitos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -215,10 +215,10 @@
   },
   "active": "9c53f857093a2bce",
   "lastOpenFiles": [
+    "00_Pre_Campanya/Bloque II - El Pueblo.md",
+    "00_Pre_Campanya/Bloque III - Deadwind Pass y los Monolitos.md",
     "00_Pre_Campanya/Bloque I - La Carretera.md",
     "02_Places/Isla de la Convergencia.md",
-    "00_Pre_Campanya/Bloque III - Deadwind Pass y los Monolitos.md",
-    "00_Pre_Campanya/Bloque II - El Pueblo.md",
     "00_Pre_Campanya/Bloque 0 - Northshire.md",
     "00_Pre_Campanya/Bloque IV - Islas Dragón y Ciudad.md",
     "02_Places/Campamento de los Aspirantes.md",
