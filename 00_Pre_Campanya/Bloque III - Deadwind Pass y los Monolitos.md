@@ -1,4 +1,4 @@
-# Bloque III — Deadwind Pass y los tres monolitos
+
 
 > **Progresión:** Nivel 15 → aproximadamente nivel 20+
 
@@ -28,7 +28,7 @@ Brannik señala hacia el horizonte.
 
 > «Everstill.»
 
-> «Dejadme mirar los mapas y ubicarme bien. Quiero comprobar lo que me habéis contado y asegurarme de que vamos por el camino correcto.»
+> «Dejadme mirar los mapas y ubicarme bien. Quiero comprobar que vamos por el camino correcto.»
 
 Brannik extiende los mapas sobre una superficie del carruaje y comienza a comparar el terreno con las rutas dibujadas. Mientras trabaja, envía un par de cuervos a explorar los alrededores.
 
@@ -38,7 +38,7 @@ Brannik decide que ya es demasiado tarde para continuar con seguridad. El grupo 
 
 La noche transcurre sin grandes incidentes. Los personajes pueden recuperar fuerzas y prepararse para el siguiente tramo.
 
-Acciones RPG de los jugadores 6000 - 10000 exp
+Acciones RPG de los jugadores 8000 - 18000 exp
 
 ## La mañana siguiente — El problema
 
@@ -46,7 +46,7 @@ Por la mañana, Brannik reúne al grupo y les explica finalmente lo que ha descu
 
 > «He encontrado el camino. Pero tenemos un problema.»
 
-> «Para continuar hacia las Islas Dragón tenemos que atravesar este paso. Hace mucho tiempo construyeron aquí tres monolitos. Si se activan los tres, el antiguo mecanismo abrirá el paso y podremos continuar.»
+> «Para continuar hacia las Islas Dragón tenemos que abrir este paso. Hace mucho tiempo construyeron aquí tres monolitos. Si se activan los tres con la correcta formulacion, el antiguo mecanismo abrirá el paso y podremos continuar a nuestro destino.»
 
 Brannik señala tres puntos diferentes del mapa.
 
@@ -63,7 +63,7 @@ Brannik señala tres puntos diferentes del mapa.
 - La prueba está diseñada para que los tres encuentros se desarrollen simultáneamente y para comprobar emparejamientos, fortalezas individuales, composición de grupos, gestión de recursos y capacidad de combate sin tener a todo el grupo reunido.
 - Los monolitos deben activarse dentro de una ventana temporal limitada para que el antiguo mecanismo funcione correctamente. La mecánica exacta de simultaneidad queda pendiente de diseño.
 
-Vender a los 3 
+Vencer a los 3 
 100.000 de exp
 ### Función de playtest
 

@@ -1,4 +1,4 @@
-# Bloque II — El pueblo
+
 
 > **Progresión:** Nivel 5 → aproximadamente nivel 10/15
 
