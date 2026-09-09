@@ -4,6 +4,8 @@
 
 ## Darkshire — llegada y nuevos encargos
 
+800 exp de exploracion
+
 El carruaje llega finalmente a Darkshire. Brannik detiene el carro frente a la posada Mabel Solaj.
 
 Mabel Solaj, la posadera, sale a recibir a Brannik. Ambos mantienen una conversación durante unos minutos.
@@ -41,6 +43,7 @@ Progresión de la línea en tres fases, planteada como "rastrear y cazar", no co
 
 3. **El enfrentamiento (o la negociación).** Si el grupo intenta tocar, romper o llevarse el tótem, el furbolg ataca (defiende su territorio de la corrupción), al que pueden sumarse más furbolgs si la tensión escala. Si el grupo se retira, usa un tótem identificado de Gavin para reconocer las marcas, o intenta tranquilizar al furbolg (dejando armas, compartiendo carne, alejándose del tótem), el furbolg puede guiarlos o dejar vía: son hostiles por desesperación, no por malicia. La resolución de aquí conecta con "La mina" (lo que confirman en el bosque es lo que el grupo de investigación reconstruye en el pueblo).
 
+6000 de exp en total les ire dando en los enfrentamientos poco a poco lo que falte al final
 ### Grupo A — La posada, la herrería y el ayuntamiento
 
 Los demás pueden empezar hablando con Mabel Solaj y acudir a la herrería de Gavin Gnarltree para conseguir una rueda nueva para el carruaje.
@@ -135,11 +138,14 @@ Sistema de tarjetas: **una tarjeta por PNJ y por tema**. El DM lee siempre la es
 - **D3 — Preguntarle por las marcas / los tótems (sin mostrar nada)** Recoge el hilo y, con una serenidad extraña, lo tiende en espiral sobre la mesa, una vuelta, otra vuelta, un bosque dibujado en hilo. «Una marca para ahuyentar a las criaturas del bosque, querida. Antes se ponía para proteger: "no entres, aquí no hay nada para ti". Era un favor, no un insulto.» Se ríe sin alegría. «Pero si se usa mal... les pone a las bestias la cabeza del revés. Las vuelve locas. Las baja de las colinas. Las trae a tu puerta, golpeando con la cabeza la puerta, como si quisieran entrar a hablar.» Mira el dibujo de hilo y las marcas hechas con los dedos. «Alguien está usando la marca del revés. Lo sé porque el bosque no llora, pero cruje.» *(Pero no sabe decir dónde están las marcas: la mirada se le pierde en la espiral y se calla, como si hubiera olvidado quién tiene delante.)*
 - **D4 — Mostrarle un tótem (especial — tienen el tótem de Gavin/el claro, o G5 la envió aquí)** Danielle deja caer la aguja, que resuena en la mesa. Sus ojos, de golpe, están claros y presentes, como si llevara una hora despierta. Acaricia el grabado con dos dedos, muy despacio, como leyendo en braille. «¡Eso! Esa es la marca. La vi en los bosques de Ashenvale, cuando la magia todavía me hacía caso. Son sellos que no se pierden jamás.» Se queda un momento en un símbolo concreto y los dedos se detienen. «Se usa para ahuyentar a las criaturas del bosque. Sirve para proteger: la hice yo, con esta misma piedra, en una aldea donde los osos bajaban a rapiñar. Funcionaba.» Los dedos trazan un segundo símbolo y se tensan. «Pero a este le han dado la vuelta. El dibujo mira hacia afuera cuando debería mirar hacia adentro. Así...» (*Gira el tótem, de manera que el grabado queda de espaldas a quien lo mira.*) «...así espanta. Del revés, desorienta: las hace bajar de las colinas y venirse aquí, a las proximidades del pueblo, a dar vueltas alrededor de la linde sin saber dónde está su casa.» Pausa. La voz se vuelve delgada. «Alguien sabe que esta marca funciona del revés, y la está usando. Y quien la usa sabe lo que hace.» Levanta la vista. «¿Quién te ha dado esto, querida?» *(Es la pista que une la cacería, los tótems, y da el empujón moral hacia la mina. Si le cuentan lo de la mina, asiente y no añade nada, pero sus manos vuelven a coser muy despacio, como quien piensa.)* *(Si le preguntan dónde podría estar el origen, señala vaga hacia el este con la aguja:)* «Del lado donde la borda se aprieta y el bosque hiede. Ahí las marcas echan raíces. Yo ya no ando caminos, querida — no pidáis a un árbol que recuerde sus raíces.»
 
+6000 de exp al conseguir todas las pistas
 ### Reunión de los grupos
 
 Las dos líneas conectan en un mismo misterio: los mineros han reabierto la mina —el antiguo hogar de los furbolgs— y están utilizando tótems para expulsar a los furbolgs y quedarse el material. El grupo de caza aporta la confirmación visual (el tótem activo en el bosque, la fauna despertada, el furbolg acorralado); el de investigación aporta el contexto y el origen (los testimonios, los recibos con el nombre de Gavin, el mapa del alcalde y el sello que identifica Danielle).
 
 ### La mina — el antiguo hogar de los furbolgs
+
+400 exp de exploracion
 
 **Qué encuentra el grupo:** una mina que a primera vista parece abandonada, pero no lo está. Las paredes de la capa profunda están cubiertas de **pinturas de furbolgs** y de otros objetos que delatan que esto fue su hogar y santuario: marcas de garras, huesos pintados, tótems pequeños y alguna herramienta tallada. Nadie de Darkshire lo sabía.
 
@@ -165,6 +171,8 @@ El DM presenta el tablero y las consecuencias; el grupo decide:
 
 El resultado de esta elección moldea la partida de Duskwood y la llegada al Bloque III (Deadwind Pass).
 
+4000 de exp al acabar
+
 ### Preparación antes de abandonar el pueblo
 
 Antes de continuar, los jugadores disponen de tiempo para hacer trueques, comprar o conseguir equipo y obtener recursos. La fase sirve también para que las decisiones sobre equipo tengan peso en la siguiente gran prueba de combate.
@@ -172,3 +180,5 @@ Antes de continuar, los jugadores disponen de tiempo para hacer trueques, compra
 - Posibles fuentes de recursos: herrero, alquimista, cazador, tabernero, mercader y otros habitantes.
 - Las recompensas pueden conseguirse mediante dinero, trueques, materiales, favores o resolución de pequeños problemas.
 - Equipo genérico: no se especifican objetos concretos; el grupo consigue equipo, consumibles o mejoras según decide invertir en cada fuente.
+
+Algo de exp y loo en teoria 1000 - 1500 exp

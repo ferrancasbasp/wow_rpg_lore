@@ -25,7 +25,7 @@ Los 8 jugadores se dividen en dos grupos de cuatro. Cada grupo se enfrenta a una
 > **Los jugadores:** Nv. 1-2 con equipo inicial.
 > **Cómo se juega:** Los PNJs están registrados en la app de combate (wow_rpg_angular, `npc-registry.ts`) y se despliegan desde la vista Maestro.
 
-1000 de exp a cada grupo 
+1300 de exp a cada uno 
 
 ### Grupo A — Jabalíes salvajes (4)
 
@@ -51,6 +51,8 @@ Mecánica distinta: el Aullido debilita el ataque físico del grupo, así que ti
 Introducir el sistema mediante dos combates simultáneos y comprobar cómo funciona la gestión de ocho jugadores divididos en dos grupos.
 
 ## Llegada a Goldshire
+
+500 exp de descubrir la zona
 
 Tras el combate, Brannik informa de que deben aprovechar para descansar. Goldshire es la primera parada segura y el pequeño espacio de libertad de los jugadores.
 
@@ -84,7 +86,7 @@ Cada escena visible de la imagen es un gancho en sí mismo —el yunque del herr
 
 Este tramo puede conceder algún punto de experiencia suelto si se considera apropiado, pero su función principal es ofrecer un respiro y permitir que los jugadores exploren libremente el mundo. Una buena manera de cerrar la parada: cada jugador cuenta en una frase qué ha hecho y qué se lleva.
 
-De 1000 a 2000 de exp en sus acciones
+De 1300 a 2400 de exp en sus acciones
 
 ## Salida hacia Duskwood
 
@@ -106,7 +108,7 @@ El paisaje comienza a cambiar progresivamente. Los campos abiertos de Elwynn dan
 
 Vamos a hacer una paradita tomaos un descanso:
 Opciones pelear con murlocs en el lago para conseguir loot hablar con los magos y resolver puzzles. Cazar otras bestias
-2000 - 4000 de exp
+2500 - 4000 de exp
 
 > «Poco después abandona el camino principal. El carruaje toma una senda que ninguno de vosotros recuerda haber visto señalizada.
 > 
