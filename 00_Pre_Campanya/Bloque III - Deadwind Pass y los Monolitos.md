@@ -68,7 +68,11 @@ Brannik señala tres puntos diferentes del mapa.
 
 ## Cueva 1 — El nido de los piratas (multicombate por oleadas)
 
-> _Un antiguo almacén convertido en guarida: cajas apiladas que tapan el techo, una plataforma superior de tablones con sacos y una linterna colgando de una cuerda. El monolito asoma al fondo, detrás de un montón de barricas._
+### Descripción al entrar
+
+> _La boca de la cueva apesta a salmuera y brea. Los primeros metros están llenos de barricas vacías amontonadas sin orden, algunas con marcas de la Compañía aún visibles. El eco de una voz grave rebota por la piedra, cantando entre dientes una canción de marineros con la letra cambiada._
+> _Al fondo, entre las cajas y el humo de una hoguera de tabaco barato, se ve al monolito: oscuro, silencioso, incrustado en la roca. Delante de él, arrellanado en un tonel como si fuera su trono, un hombre enorme con una espada al hombro os espera sin levantarse._
+> _Detrás de él, en una plataforma de tablones a media altura, se adivina otra silueta más delgada, con algo metálico que brilla entre las sombras. Y de alguna grieta del techo cae una luz tenue que apenas alcanza a la tercera figura, encorvada junto a un brasero maloliente, cuyas manos se mueven como si empujaran un aire que solo ella ve._
 
 En esta cueva esperan los tres élites piratas: **Vilhun, el Corsario**, **Deadshot Marrow** y **Ruzal, Pirata Arcano**. La clave del encuentro: **no entran de golpe**. El combate empieza contra uno y los otros dos se suman en oleadas, con su diálogo el momento de entrar.
 
@@ -90,7 +94,13 @@ En esta cueva esperan los tres élites piratas: **Vilhun, el Corsario**, **Deads
 
 ## Cueva 2 — La cámara de Garzuk (el muro que premia a un mago)
 
-> _La bóveda tiembla constante, con un retumbo sordo que sube desde la tierra. El monolito está encajado en el suelo, y Garzuk lo rodea como un centinela de piedra. Pequeños trozos caen del techo cada pocos segundos._
+### Descripción al entrar
+
+> _El suelo de la cueva vibra incluso antes de entrar, un temblor rítmico que sube por las botas como un tambor lejano. La luz no tarda en desaparecer: aquí no hay braseros ni antorchas, solo piedra y oscuridad y un calor reseco que no encaja con la montaña._
+> _A media cueva os detenéis. Al fondo, el monolito sobresale de la roca como si fuera su columna vertebral, pero no es lo primero que veis._
+> _Lo primero que veis es a Garzuk._
+> _Es grande. No "un elemental grande": es el tamaño equivocado de las cosas. Su cuerpo de roca abigarrada casi toca el techo, y los musgos y grietas de su piel crujen al respirar — respira, eso ya es bastante. Da un paso y el suelo se queja. Se vuelve hacia vosotros poco a poco, como si acabara de notar vuestra presencia, y del fondo de la piedra sale un sonido que podría ser un gruñido, o el rechinado de dos montañas rozándose._
+> _Los pequeños guijarros del techo empiezan a caer alrededor vuestro, cada vez más rápido._
 
 **Garzuk, Elemental de Roca**. Es el muro físico: 2.600 PV y 110 de armadura, con Puñetazos de 70–100 que tumban a un jugador de nivel 15 en uno o dos golpes. La gracia del encuentro es que **su defensa mágica es negativa**: el daño mágico le entra muy por encima de lo normal (ajustar `magicResist` negativo en la app). Por tanto:
 
@@ -100,7 +110,14 @@ En esta cueva esperan los tres élites piratas: **Vilhun, el Corsario**, **Deads
 
 ## Cueva 3 — El santuario de Vhalgrim (jefe adaptativo con refuerzos)
 
-> _La cueva más profunda, la que huele a hollín y huesos quemados. Restos de fogatas, plumas negras y marcas talladas en las paredes. Vhalgrim está de espaldas, recitando en voz baja junto al monolito._
+### Descripción al entrar
+
+> _Esta cueva no huele a roca: huele a humo rancio, a pelo chamuscado y a algo dulce que no debería estar aquí. A lo largo del camino, restos de fogatas frías y plumas negras clavadas entre las grietas, como marcas de alguien que marcó su territorio._
+> _El techo se abre en una cámara amplia y baja, llena de humo azulado que se arrastra sin salida. Las paredes están cubiertas de pinturas y arañazos, círculos y espirales tallados a mano — las mismas marcas que visteis en los tótems, pero más antiguas, más profundas, como escritas desde dentro._
+> _Junto al monolito, en el centro, está Vhalgrim._
+> _Está de espaldas, encorvado, murmurando en una lengua de susurros y chasquidos. Sus manos se mueven en el aire, y cuando la sombra de la cueva se enreda a su alrededor, no sabéis si la llame él o si lo ha estado siguiendo todo el tiempo._
+> _No se vuelve. Pero la voz sale de él tan clara como si estuviera a vuestro lado:_
+> _«El mecanismo no está roto. Solo tengo que enseñarle a quien lo toque lo que se siente al estar vacío.»_
 
 **Vhalgrim, Dark Mage**. No es un muro: es un jefe de mecánicas que **se adapta al desarrollo del combate**. Drena, maldice y, cuando el DM ve que la balanza se está decantando demasiado (por ejemplo, al bajar a la mitad de vida, o cuando el grupo fija un ritmo ya controlado), **saca refuerzos**:
 
