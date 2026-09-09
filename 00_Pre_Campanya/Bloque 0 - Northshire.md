@@ -59,7 +59,7 @@ El enano da otra calada a la pipa y mira hacia el camino que sale de Northshire.
 
 Si los jugadores preguntan por el camino o la carga, Brannik responde con su estilo seco y sin dar detalles de más (viene del Bloque I: "Esto es todo vuestro" cuando llegue el combate).
 
-En funcion de como de bien lo hagan de 400 a 1300 de exp
+**💥 XP — En función de cómo de bien lo hagan, de 400 a 1.300 de exp**
 ## Salida hacia la carretera
 
 Cuando el grupo esté listo, Brannik chasquea las riendas y el carruaje abandona Northshire. El reencuentro con el camino a las murallas de Northshire Valley da paso al Bloque I.
