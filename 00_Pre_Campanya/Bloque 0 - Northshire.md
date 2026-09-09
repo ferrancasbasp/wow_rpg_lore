@@ -59,6 +59,7 @@ El enano da otra calada a la pipa y mira hacia el camino que sale de Northshire.
 
 Si los jugadores preguntan por el camino o la carga, Brannik responde con su estilo seco y sin dar detalles de más (viene del Bloque I: "Esto es todo vuestro" cuando llegue el combate).
 
+En funcion de como de bien lo hagan de 400 a 1300 de exp
 ## Salida hacia la carretera
 
 Cuando el grupo esté listo, Brannik chasquea las riendas y el carruaje abandona Northshire. El reencuentro con el camino a las murallas de Northshire Valley da paso al Bloque I.
@@ -66,3 +67,30 @@ Cuando el grupo esté listo, Brannik chasquea las riendas y el carruaje abandona
 ## Objetivo de playtest
 
 Presentar la premisa, abrir el primer espacio de libertad de los jugadores (despedida, últimas compras, preguntas) y confirmar que las divisiones del grupo y los diálogos de los PNJ pueden fluir sin guion.
+
+Cheat sheet.
+Nivel	XP del nivel	XP acumulada
+1 → 2	400	400
+2 → 3	900	1.300
+3 → 4	1.400	2.700
+4 → 5	2.100	4.800
+5 → 6	2.800	7.600
+6 → 7	3.600	11.200
+7 → 8	4.500	15.700
+8 → 9	5.400	21.100
+9 → 10	6.500	27.600
+10 → 11	7.600	35.200
+11 → 12	8.800	44.000
+12 → 13	10.100	54.100
+13 → 14	11.500	65.600
+14 → 15	13.000	78.600
+15 → 16	14.600	93.200
+16 → 17	16.300	109.500
+17 → 18	18.100	127.600
+18 → 19	20.000	147.600
+19 → 20	22.000	169.600
+20 → 21	24.100	193.700
+21 → 22	26.300	220.000
+22 → 23	28.600	248.600
+23 → 24	31.000	279.600
+24 → 25	33.500	313.100

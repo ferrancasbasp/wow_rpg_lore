@@ -25,6 +25,8 @@ Los 8 jugadores se dividen en dos grupos de cuatro. Cada grupo se enfrenta a una
 > **Los jugadores:** Nv. 1-2 con equipo inicial.
 > **Cómo se juega:** Los PNJs están registrados en la app de combate (wow_rpg_angular, `npc-registry.ts`) y se despliegan desde la vista Maestro.
 
+1000 de exp a cada grupo 
+
 ### Grupo A — Jabalíes salvajes (4)
 
 Además de las reglas básicas (movimiento, acciones, daño), esta línea sirve para probar los sangrados y la gestión de amenaza frontal contra enemigos con embestida.
@@ -82,6 +84,8 @@ Cada escena visible de la imagen es un gancho en sí mismo —el yunque del herr
 
 Este tramo puede conceder algún punto de experiencia suelto si se considera apropiado, pero su función principal es ofrecer un respiro y permitir que los jugadores exploren libremente el mundo. Una buena manera de cerrar la parada: cada jugador cuenta en una frase qué ha hecho y qué se lleva.
 
+De 1000 a 2000 de exp en sus acciones
+
 ## Salida hacia Duskwood
 
 A la mañana siguiente, el carruaje vuelve a ponerse en marcha. El grupo abandona Goldshire y toma el camino hacia el este.
@@ -98,8 +102,12 @@ El paisaje comienza a cambiar progresivamente. Los campos abiertos de Elwynn dan
 > 
 > «Atravesáis la zona dejando el lago atrás. Más adelante aparece una vieja torre de piedra. La Torre de Azora se alza sobre el paisaje, solitaria y silenciosa, como si llevara siglos vigilando los caminos de Elwynn.
 > 
-> «Brannik apenas se detiene. Continúa avanzando.
-> 
+> «Brannik se detiene. - Un enano que camino con una gran mochila se para y se saludan. (Palabras familiares y colegueo os dice que si quereis estirar las piernas no sera mas de un par de horas.)
+
+Vamos a hacer una paradita tomaos un descanso:
+Opciones pelear con murlocs en el lago para conseguir loot hablar con los magos y resolver puzzles. Cazar otras bestias
+2000 - 4000 de exp
+
 > «Poco después abandona el camino principal. El carruaje toma una senda que ninguno de vosotros recuerda haber visto señalizada.
 > 
 > «El terreno empieza a cambiar. Los campos desaparecen. La hierba alta da paso a matorrales y árboles. Al principio no parece gran cosa. Simplemente habéis dejado atrás las tierras habitadas.

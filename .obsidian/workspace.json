@@ -53,14 +53,32 @@
             "id": "384479f0d573211a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "02_Places/Isla de la Convergencia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Isla de la Convergencia"
+            }
+          },
+          {
+            "id": "4ef85234c0915a47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Pre_Campanya/Bloque II - El Pueblo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bloque II - El Pueblo"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,6 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00_Pre_Campanya/Bloque II - El Pueblo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,6 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00_Pre_Campanya/Bloque II - El Pueblo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -198,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "00_Pre_Campanya/Bloque II - El Pueblo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -236,21 +256,51 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1818d2db064dfbed",
+  "active": "4ef85234c0915a47",
   "lastOpenFiles": [
+    "00_Pre_Campanya/Bloque I - La Carretera.md",
+    "00_Pre_Campanya/Bloque 0 - Northshire.md",
+    "00_Pre_Campanya/Bloque II - El Pueblo.md",
+    "00_Pre_Campanya/Bloque III - Deadwind Pass y los Monolitos.md",
+    "00_Pre_Campanya/Bloque IV - Islas Dragón y Ciudad.md",
+    "02_Places/Campamento de los Aspirantes.md",
+    "02_Places/El Laberinto de los Loa.md",
+    "02_Places/Lordaeron.md",
+    "02_Places/Orgrimmar.md",
+    "02_Places/Universidad de Nefarius.md",
+    "03_Personages/Arthas Menethil.md",
+    "AGENTS.md",
+    "06_Facciones/La Progenie Espina de Coral.md",
+    "06_Facciones/La Coalición Moriche.md",
+    "05_imagenes/Northshire.jpeg",
+    "05_imagenes/La Progenie Espina de Coral.jpeg",
+    "05_imagenes/Isla de la Convergencia.jpeg",
+    "05_imagenes/Goldshire.jpeg",
+    "05_imagenes/El Laberinto de los Loa.jpeg",
+    "05_imagenes/Capitán Elias Graves.jpeg",
+    "05_imagenes/Arena Gurubashi - Interior.jpeg",
+    "05_imagenes/Arena Gurubashi - Entrada.jpeg",
+    "04_Lore_and_Items/Elixir Nogenthforgen.md",
+    "03_Personages/Zulri Pluma de Viento.md",
+    "03_Personages/Tizzy Tornasol.md",
+    "03_Personages/Tahum Canto del Trueno.md",
+    "03_Personages/Jodin Aguja de Plata.md",
+    "03_Personages/Aelindis Filosilente.md",
+    "00_Índice.md",
+    "00_Pre_Campanya/One-Shot de Testeo - Dossier.md",
+    "00_Pre_Campanya/Bloque V - Dungeon Final.md",
+    "00_Pre_Campanya",
+    "03_Personages/Jaina Valiente.md",
+    "03_Personages/Karga Furiadiestra.md",
+    "06_Facciones/Los Elfos de la Noche.md",
+    "06_Facciones",
     "Untitled 1.canvas",
-    "03_Personages/Capitán Elias Graves.md",
-    "02_Places/Isla de la Convergencia.md",
-    "01_Sesiones/Opening.md",
-    "04_Lore_and_Items/La Prueba del Cénit.md",
-    "Ideas sueltas.md",
     "04_Lore_and_Items",
     "05_imagenes",
     "05_imagenes/Gemini_Generated_Image_ra39ahra39ahra39.jpeg",
     "03_Personages",
     "02_Places",
     "01_Sesiones",
-    "Untitled.canvas",
-    "Welcome.md"
+    "Untitled.canvas"
   ]
 }
