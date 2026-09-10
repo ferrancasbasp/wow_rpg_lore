@@ -1,31 +1,80 @@
-# Bloque V — Dungeon final
+# Bloque V — La fortaleza del reloj
 
 > **Progresión:** Fin de travesía → nivel 25
 
-Texto de descripcion de la entrada
+## Llegada a la fortaleza
 
-Hay un enfrentamiento contra 3 guardianes seran los 3 training dummy de la sim.
-Luego llegaran a la sala del jefe de verdad la idea es hacer pensar a los jugadores que lo previo es el boss
+> _El camino se corta de golpe: lo que os espera no es una cueva ni unas ruinas. Es una fortaleza circular incrustada en la montaña, coronada por engranajes del tamaño de casas que giran sin darse prisa, como si el tiempo mismo se moviera dentro de ella. Nadie la construyó para defenderse de invasores: se construyó para contener algo._
+> _La puerta está abierta. Os está esperando._
 
-Cromie esta en la sala delante del boss, Barrik lleva los discos en una carreta. Cromie os saluda que vamos otra vez? los jugadores estaran sorprendidos pues les dira algo venga que ya hemos tenido esta conversa 3 veces la mano en el reloj.
+**💥 XP — Descubrir la fortaleza: 5.000**
 
-Cabeza 30K de vida Hace los siguientes ataques: 
-1 Agijon              250 danyo
-2 Agijones         500 danyo
-3 Agijones       750 danyo. + debuff de healing de 2 turnos
-La idea es que en el tercero y segundo ataque un tanke o alguin con mucha vida haga taunt para que el golpe del tripe agijon no vaya a al tank Ademas pone el debuffo con lo que fuerza un poco un healing swap
-4 aliento de fuego danyo a todo el mundo 300 danyo magico + soltar 2 adds 
-(deberia tener 3 ataques 1 Aguja, 2 Aguja, 3 Aguja + debuff y aliento de fuego)
+## Los tres guardianes (los maniquíes de pruebas Nv.25)
 
+Antes de la sala del jefe, tres guardianes custodian el pasillo central. Son los **tres maniquíes de entrenamiento élite Nv.25** (`elite_lv25_dummy` en la app): 3.000 PV, 60 armadura, 40 res. mágica, y un único Golpe Básico 81–108.
 
-Los add salen a un lateral de la sala 1500 de vida
-1 caminan al boss (simplemente se clica el boton de nada)
-2 llegan el boss se los come se cura 3000 de vida y hace un aliento de fuego (pondriamos la habilidad al add de curar 3000 al boss ya tiraria yo el aliento del boss)
+> **Cómo se juega:** son un "pre-calentamiento" técnico antes del jefe de verdad. El enfrentamiento está pensado para que los jugadores ajusten su rotación, comprueben cómo pegan a nivel 20+ y lleguen al combate grande con los sistemas frescos.
 
-Tiene 2 manos que muestran piedra papel o tijera.
-Si tienen piedra donde ponga su area va a hacer mucho danyo. La idea es esquivarlo.
-Si pone tijeras hacer un danyo en linea intentando tocar al mayor numero de personages. (la idea es no estar alineado)
-Si pone papel cerca del area atrae a un jugador hasta la mano y le inmoviliza, le va a hacer danyo magico cada turno que este dentro. (la idea es poner alguien que no pueda pegar mucho con un defensivo y sacarlo rapido con un stun)
-que se estunea la mano o se le hacen 1000 de danyo a la mano. 
-Las manos tienen 15.000 de vida cada una pero no es necesario matarlas aun asi son seleccionables. Tienen 2 habilidades cut 200 de danyo, punch 500 de danyo, hold 300 de danyo.
+El grupo demuestra que puede con ellos — y la sala siguiente les hace creer que lo que acaban de ver era lo más grande que tenían delante.
 
+## La sala del jefe — la verdad detrás del trono
+
+> _Cruzáis la última puerta y la sala se abre enorme. Al fondo, detrás de una cabeza que casi roza el techo, un reloj gigante marca una hora que no existe. Cromie está allí, delante de la cabeza, con las manos ocupadas en un pequeño mecanismo de bronce que ajusta y vuelve a ajustar con calma._
+> _Brannik frena la carreta con los discos y se queda mirándoos, expectante._
+> _Cromie levanta la vista. Os conoce. Le desagradáis, pero os conoce._
+
+> «¿Otra vez?»
+
+> _Silencio. Alguien dice algo._
+
+> «Venga ya. Esto ya lo habéis hecho tres veces. Que la mano en el reloj no os haga perder la cabeza también.»
+
+*(La revelación es dejar que la desconfianza florezca: Cromie no está sorprendida de verlos. Esta no es su primera visita — y el grupo lo sospecha sin poder probarlo.)*
+
+## El jefe — La Cabeza del Reloj
+
+**Cabeza del Reloj — 30.000 PV.** Sus mecánicas están pensadas para exigir coordinación, taunts, swaps y lectura de patrones, no solo daño.
+
+### 🎯 Aguijones (golpe principal, 3 fases)
+
+| Ataque | Daño | Efecto |
+|---|---|---|
+| **Aguijón** | 250 | — |
+| **2 Aguijones** | 500 | — |
+| **3 Aguijones** | 750 | **+ debuff de sanación (2 turnos)** |
+
+- El 2º y 3º golpe son descomunales: la idea es que un tanque o alguien con mucha vida haga **taunt** para que el golpe no caiga sobre el tanque principal (o el personaje que lo aguantaría).
+- El debuff de sanación del triple Aguijón fuerza un **healing swap**: el que cura al tanque queda mitigado dos turnos, así que tiene que encargarse otro.
+
+### 🔥 Aliento de fuego
+
+**300 de daño mágico a todo el grupo** + suelta **2 adds** a un lateral de la sala.
+
+### 🖐️ Las manos — piedra, papel o tijera
+
+El jefe tiene **dos manos independientes**, cada una con 15.000 PV (seleccionables, pero **no es necesario matarlas**). Cada pocos turnos muestran un gesto, y cada gesto tiene su contra:
+
+| Gesto | Qué hace | Cómo se esquiva |
+|---|---|---|
+| **✊ Piedra** | Golpea su zona con daño muy alto | **No estar en el área** |
+| **✌️ Tijeras** | Daño en línea intentando tocar a varios a la vez | **No alinearse** (esparcirse) |
+| **✋ Papel** | Atrae a un jugador hacia la mano y lo **inmoviliza**; recibe daño mágico cada turno mientras está dentro | Mandar a alguien con defensivo que no dependa del daño físico; **sacarlo rápido con un stun** |
+
+- Las manos se pueden **estunear** (el aturdido cancela el gesto) o hacerles **1.000 de daño** para interrumpirlas.
+- Habilidades de las manos: **Cut** (200), **Punch** (500), **Hold** (300) — daño físico básico mientras no activan un gesto.
+
+### ⚠️ Adds
+
+- Los adds nacen en un lateral de la sala con **1.500 PV**.
+- **Caminan hacia el jefe** (mecánica de "pasar" — simplemente se quedan avanzando).
+- Si **llegan al jefe**, se los **come**: se **cura 3.000 PV** y ejecuta un **Aliento de fuego** extra. *(En la app, al add se le pone la habilidad de curar 3.000 al jefe; el Aliento lo tira el DM desde el jefe.)*
+
+> **Para el DM — intención de diseño:** el triple Aguijón castiga no prestar atención a los taunts y al healing swap; el Aliento de fuego + comer adds castiga ignorar o no cuantificar a los secuaces; piedra/papel/tijera pone a prueba lectura, posición y organización del grupo. Es el examen final de todas las facetas que se han ido probando en el one-shot.
+
+## Desenlace
+
+**💥 XP — Vencer a la Cabeza del Reloj: 100.000**
+
+*(Completar el Bloque IV + este Bloque V debe dejar al grupo en nivel 25 — la cima del one-shot.)*
+
+*(Por expandir — desenlace narrativo y el cierre del viaje de vuelta a Northshire.)*
