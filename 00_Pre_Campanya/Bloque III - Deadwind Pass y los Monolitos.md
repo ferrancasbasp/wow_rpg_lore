@@ -12,29 +12,32 @@ La carreta abandona Duskwood con la rueda nueva y los suministros necesarios par
 
 **💥 XP — 4.000 por descubrir**
 
-> «El camino continúa hasta Deadwind Pass. Poco antes de llegar, algo llama vuestra atención: un enorme buitre está posado sobre la rama de un árbol, observándoos en silencio.»
-
-Brannik levanta una mano y baja la voz.
+> _El camino se aquieta poco a poco, como si la tierra misma os estuviera avisando. No hay gritos, no hay carros, no hay pájaros. Solo el viento entre las rocas y el crujido de las ruedas._
+> _Poco antes de llegar, algo llama vuestra atención: un enorme buitre está posado sobre la rama de un árbol, observándoos en silencio. No aparta la cabeza cuando pasáis. Os ha visto, y no le dais miedo._
+> _Brannik levanta una mano y baja la voz._
 
 > «Ni se os ocurra hacer nada. No estamos en Elwynn ya.»
 
-> «Giráis hacia Deadwind Pass y comenzáis a ascender por la montaña hacia el norte. Poco a poco, la escena de Duskwood queda atrás. Desde las alturas, los caminos y bosques que acabáis de atravesar se vuelven pequeños y lejanos.»
-
-> «Las montañas son cada vez más rojizas y escarpadas. El terreno está lleno de pequeños senderos que se pierden entre las rocas y de entradas oscuras que parecen conducir a cuevas. El camino se vuelve más estrecho y el paisaje, más solitario.»
-
-> «Finalmente alcanzáis una zona elevada desde la que podéis contemplar una enorme extensión de agua a lo lejos.»
+> _Giráis hacia Deadwind Pass y comenzáis a ascender por la montaña hacia el norte. Poco a poco, la escena de Duskwood queda atrás: los bosques y caminos que acabáis de atravesar se vuelven pequeños y lejanos, como un mapa que se dobla._
+> _Las montañas son cada vez más rojizas y escarpadas. El terreno está lleno de pequeños senderos que se pierden entre las rocas, y de entradas oscuras que parecen conducir a cuevas. El camino se vuelve más estrecho. El paisaje, más solitario. Los árboles empiezan a desaparecer, y lo que queda no parece querer raíces._
+> _Finalmente alcanzáis una zona elevada desde la que podéis contemplar una enorme extensión de agua a lo lejos, quieta y gris, sin un solo barco._
 
 Brannik señala hacia el horizonte.
 
 > «Everstill.»
 
+> _El lago del que nadie habla. Del que ningún mapa pone más que el nombre, porque la leyenda que iba debajo se borró hace siglos por razones que la bruma guarda mejor que los escribanos._
+
 > «Dejadme mirar los mapas y ubicarme bien. Quiero comprobar que vamos por el camino correcto.»
 
-Brannik extiende los mapas sobre una superficie del carruaje y comienza a comparar el terreno con las rutas dibujadas. Mientras trabaja, envía un par de cuervos a explorar los alrededores.
+_Brannik extiende los mapas sobre una superficie del carruaje y comienza a comparar el terreno con las rutas dibujadas. Mientras trabaja, habla poco. Envía un par de cuervos a explorar los alrededores, que se alejan batiendo las alas contra un cielo que nadie ha visto brillar del todo. El grupo espera. La montaña no espera a nadie, pero por una vez, parece tener paciencia._
 
 ## Noche en la montaña
 
 Brannik decide que ya es demasiado tarde para continuar con seguridad. El grupo puede montar el campamento y descansar.
+
+> _El fuego apenas ilumina más allá de unos metros, y lo que queda fuera de ese círculo de luz no llega a tomar forma: hay sombras que se mueven, pero cuando las miras de frente, se quedan quietas. No hay aves, ni insectos, ni el murmullo de un arroyo. Solo la roca, y encima de ella, vosotros._
+> _Brannik reparte el turno de guardia con dos palabras y se acomoda contra el carro con la pipa apagada. No duerme del todo — o al menos os lo parece — pero a medianoche, sus cuervos regresan de uno en uno. Le hablan. O el hace como que le hablan. Y él escucha atentamente, con el ceño fruncido, mirando las montañas que ya no dejan ver Elwynn._
 
 La noche transcurre sin grandes incidentes. Los personajes pueden recuperar fuerzas y prepararse para el siguiente tramo.
 
@@ -44,15 +47,19 @@ La noche transcurre sin grandes incidentes. Los personajes pueden recuperar fuer
 
 Por la mañana, Brannik reúne al grupo y les explica finalmente lo que ha descubierto durante la noche y gracias a los cuervos.
 
+> _El humo del fuego se cuela entre las primeras luces grises. Brannik no sonríe. Tiene el mapa extendido sobre una roca y los cuervos posados en el pescante, mirándoos a todos con esa intensidad que solo tienen los que ya saben algo._
+
 > «He encontrado el camino. Pero tenemos un problema.»
 
 > «Para continuar hacia las Islas Dragón tenemos que abrir este paso. Hace mucho tiempo construyeron aquí tres monolitos. Si se activan los tres con la correcta formulacion, el antiguo mecanismo abrirá el paso y podremos continuar a nuestro destino.»
 
-Brannik señala tres puntos diferentes del mapa.
+Brannik señala tres puntos diferentes del mapa. Sus dedos se posan sobre tres marcas casi idénticas, colocadas en triángulo.
 
 > «El problema es que cada uno está dentro de una cueva diferente.»
 
 > «Y en cada una de esas cuevas hay algo que no quiere que nos acerquemos al monolito.»
+
+> _Los cuervos graznan a la vez, como si respondieran por él. Brannik los calma con un gesto y vuelve a miraros a cada uno, despacio, uno por uno. «Hoy no os puedo acompañar. El camino aquí no perdona los errores de un enano con una pierna menos. Pero alguno de vosotros tiene que volver de ahí abajo con las tres piezas.»_
 
 ## Los tres monolitos
 
