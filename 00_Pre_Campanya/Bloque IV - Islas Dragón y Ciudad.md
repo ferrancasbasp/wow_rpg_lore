@@ -65,5 +65,3 @@ Los jugadores que me digan qué van a hacer pueden **inventarse hasta 2 historia
 - Es un espacio de libertad narrativa: el jugador propone la historia, cómo se acerca al objetivo y a qué recurso de la ciudad recurre.
 - El DM decide el nivel de dificultad de la tirada según lo razonable y lo entretenido de la propuesta.
 - Cada historia resuelta con éxito puede entregar mejor equipo, recursos, información o favores para la travesía final.
-
-**💥 XP — Semana en las Islas Dragón: 20.000–30.000 (según historias y entrenamiento)**

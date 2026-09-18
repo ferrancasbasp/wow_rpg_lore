@@ -2,12 +2,12 @@
 
 > **Progresión:** Fin de travesía → nivel 25
 
+Bueno chavales vamos esta es la ultima parada y nos volvemos para casa ya tengo todo lo que necesitamos. (Tiene los discos titanicos con el en una carreta de mano)
 ## Llegada a la fortaleza
 
 > _El camino se corta de golpe: lo que os espera no es una cueva ni unas ruinas. Es una fortaleza circular incrustada en la montaña, coronada por engranajes del tamaño de casas que giran sin darse prisa, como si el tiempo mismo se moviera dentro de ella. Nadie la construyó para defenderse de invasores: se construyó para contener algo._
 > _La puerta está abierta. Os está esperando._
 
-**💥 XP — Descubrir la fortaleza: 5.000**
 
 ## Los tres guardianes (los maniquíes de pruebas Nv.25)
 
@@ -19,8 +19,8 @@ El grupo demuestra que puede con ellos — y la sala siguiente les hace creer qu
 
 ## La sala del jefe — la verdad detrás del trono
 
-> _Cruzáis la última puerta y la sala se abre enorme. Al fondo, detrás de una cabeza que casi roza el techo, un reloj gigante marca una hora que no existe. Cromie está allí, delante de la cabeza, con las manos ocupadas en un pequeño mecanismo de bronce que ajusta y vuelve a ajustar con calma._
-> _Brannik frena la carreta con los discos y se queda mirándoos, expectante._
+> _Cruzáis la última puerta y la sala se abre enorme. Al fondo, detrás de una cabeza que casi roza el techo. Una gnoma de pelo dorado esta sentada encima de un reloj de arena.
+> Brannik frena la carreta con los discos y se queda mirándoos, expectante.
 > _Cromie levanta la vista. Os conoce. Le desagradáis, pero os conoce._
 
 > «¿Otra vez?»
@@ -73,7 +73,11 @@ El jefe tiene **dos manos independientes**, cada una con 15.000 PV (seleccionabl
 
 ## Desenlace
 
-**💥 XP — Vencer a la Cabeza del Reloj: 100.000**
+La cabeza cae vencida trocos de priedra resuenan contra el suelo Barnik se acerca con los discos a la rendija que hay debajo del guardian. AHora solo queda guardar esto aqui introduce los discos. 
+Hay un zumbido desgradable que hace que os piten los oidos, hechais las manos a las orejas de forma intuitiva. De los discos salen unas chispas y un olor extremadamente desagradable. 
+Barnik entra en panico, se le ve en la cara. Oh no! Cromie, sacanos, la gnoma que estaba sentada fuera se levanta y lanza una arenas pero es tarde un estallido de pronto todo esta delante y atras el timepo se estira y llegais a poder tocarlo pero es desagradable y os tira para atras. EN la montanya se oye una gran explosion. De aquellos aventureros no se volvio a saber nada.
+
+Abres los ojos que hambre ves una cara conocida tus pequenyas manos van hacia ella buscando confort ella sonrie y te levanta por la ventana se ve una un gentio reuniodo en la calle parece que hay celebracion. Te saca en brazos a un pequenyo balcon y ves una linea de caballos desfilando centenares de personas rodean las calles y hacen caer petalos de rosa. Lasrga vida la princesa de theramor, larga vida al principe (la boda de Arthas y Jaina)
 
 *(Completar el Bloque IV + este Bloque V debe dejar al grupo en nivel 25 — la cima del one-shot.)*
 
