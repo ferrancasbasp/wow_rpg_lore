@@ -73,12 +73,53 @@ El jefe tiene **dos manos independientes**, cada una con 15.000 PV (seleccionabl
 
 ## Desenlace
 
-La cabeza cae vencida trocos de priedra resuenan contra el suelo Barnik se acerca con los discos a la rendija que hay debajo del guardian. AHora solo queda guardar esto aqui introduce los discos. 
-Hay un zumbido desgradable que hace que os piten los oidos, hechais las manos a las orejas de forma intuitiva. De los discos salen unas chispas y un olor extremadamente desagradable. 
-Barnik entra en panico, se le ve en la cara. Oh no! Cromie, sacanos, la gnoma que estaba sentada fuera se levanta y lanza una arenas pero es tarde un estallido de pronto todo esta delante y atras el timepo se estira y llegais a poder tocarlo pero es desagradable y os tira para atras. EN la montanya se oye una gran explosion. De aquellos aventureros no se volvio a saber nada.
+_La cabeza del guardián se desprende finalmente de su cuerpo y cae al suelo con un estruendo que hace temblar toda la cámara. Los últimos fragmentos de piedra se desprenden de la criatura y rebotan sobre el suelo mientras el eco del combate se pierde lentamente entre las paredes. Durante unos segundos, nadie dice nada. Solo queda vuestra respiración entrecortada y el sonido de las piedras terminando de caer._
 
-Abres los ojos que hambre ves una cara conocida tus pequenyas manos van hacia ella buscando confort ella sonrie y te levanta por la ventana se ve una un gentio reuniodo en la calle parece que hay celebracion. Te saca en brazos a un pequenyo balcon y ves una linea de caballos desfilando centenares de personas rodean las calles y hacen caer petalos de rosa. Lasrga vida la princesa de theramor, larga vida al principe (la boda de Arthas y Jaina)
+_Brannik avanza entonces entre los restos del guardián. En sus manos lleva los tres discos que habéis encontrado durante vuestro viaje. Se detiene frente a una enorme grieta que acaba de abrirse bajo el lugar donde permanecía la criatura y observa el interior durante unos instantes. Después, sin explicar nada, se arrodilla y coloca los discos en una cavidad de la piedra._
 
-*(Completar el Bloque IV + este Bloque V debe dejar al grupo en nivel 25 — la cima del one-shot.)*
+_«Bueno... solo queda dejar esto donde estaba.»_
 
-*(Por expandir — desenlace narrativo y el cierre del viaje de vuelta a Northshire.)*
+_En cuanto el último disco encaja, algo cambia. Un zumbido grave comienza a extenderse por la cámara, tan profundo que no parece venir de ningún lugar concreto. Sentís cómo os vibra el pecho y, poco a poco, el sonido se vuelve insoportable. Un dolor agudo os atraviesa los oídos y todos lleváis las manos a la cabeza casi al mismo tiempo. Los discos empiezan a emitir pequeñas descargas de energía que recorren la piedra como venas de luz. Entonces llega el olor: una mezcla desagradable de metal quemado, ácido y algo parecido a materia podrida._
+
+_Brannik se queda completamente inmóvil. Por primera vez desde que lo conocéis, su expresión pierde toda aquella seguridad seca y despreocupada que siempre había mostrado. Mira los discos. Después mira la grieta. Y finalmente levanta la cabeza hacia vosotros._
+
+_«Oh, no...»_
+
+_Retrocede un paso._
+
+_«¡Cromie! ¡Sácanos de aquí!»_
+
+_Al otro lado de la cámara, la pequeña gnoma se incorpora de golpe y alza las manos. Una corriente de arena dorada comienza a arremolinarse a su alrededor. «¡Brannik, espera! ¡No los toques!» Pero ya es demasiado tarde. Una luz blanca brota de la grieta y, durante un instante, todo queda suspendido. El polvo, las piedras, incluso vosotros. Entonces el tiempo vuelve a avanzar de golpe. Una fuerza brutal os arrastra en todas direcciones mientras la luz os envuelve y el mundo parece romperse a vuestro alrededor._
+
+_Y entonces todo desaparece. En algún lugar de las montañas, un estruendo sacude el cielo. Después... silencio. De aquellos aventureros no se volvió a saber nada._
+
+-------
+
+_Abres los ojos._
+
+_Lo primero que sientes es hambre. Una sensación intensa y desconocida que te hace moverte inquieto entre unas telas suaves y cálidas. Intentas levantar los brazos y descubres unas pequeñas manos que apenas sabes controlar. Abres y cierras los dedos, fascinado por su movimiento, antes de que una voz suave llegue hasta ti._
+
+_Una mujer se acerca. Su rostro aparece sobre ti y, aunque no sabes quién es, su presencia te tranquiliza. Cuando extiende los brazos, tus pequeñas manos se dirigen hacia ella buscando su calor. Ella sonríe y te recoge con cuidado, acunándote contra su pecho._
+
+_Durante unos instantes solo existe ese calor._
+
+_Hasta que empiezas a escuchar el ruido del exterior._
+
+_Al principio son voces lejanas, apagadas por las paredes. Después llegan las campanas, las risas y el sonido de una multitud que parece ocupar cada calle de la ciudad. La mujer se acerca a una ventana. Desde allí puedes escuchar cómo miles de voces celebran algo que no comprendes. La música se mezcla con el repicar de las campanas y, de vez en cuando, una enorme ovación hace vibrar los cristales._
+
+_La mujer sale finalmente del edificio contigo entre sus brazos._
+
+_El aire fresco te toca el rostro y, de repente, todo se vuelve enorme. Calles llenas de gente. Caballos adornados con telas y flores. Carrozas avanzando lentamente entre una multitud que se aparta para dejarles paso. Banderas ondeando sobre las fachadas y músicos tocando mientras los habitantes se agolpan a ambos lados de la avenida para contemplar la comitiva._
+
+_Una lluvia de pétalos de rosa cae sobre la calle._
+
+_Tus ojos siguen uno de ellos mientras desciende lentamente frente a tu rostro. Extiendes una mano intentando atraparlo, pero el pétalo se aleja con el viento. Otro ocupa su lugar. Y después otro. Durante unos segundos, todo lo demás deja de importar._
+
+_Muy cerca de ti, dos mujeres hablan entre ellas mientras observan pasar la comitiva._
+
+_—Nuestro príncipe es muy afortunado. Dicen que la joven es brillante._
+_—También dicen que su propio padre murió por culpa suya._
+_—No digas eso tan alto. Otros aseguran que fue la única que intentó detenerlo._
+
+_La primera mujer ríe suavemente._
+_—Y pensar que por fin van a casarse..._
