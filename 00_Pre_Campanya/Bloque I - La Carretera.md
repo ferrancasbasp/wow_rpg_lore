@@ -108,6 +108,9 @@ El paisaje comienza a cambiar progresivamente. Los campos abiertos de Elwynn dan
 
 Vamos a hacer una paradita tomaos un descanso:
 Opciones pelear con murlocs en el lago para conseguir loot hablar con los magos y resolver puzzles. Cazar otras bestias
+
+> **Enemigos (ya en la app, `npc-registry.ts`):**
+> - **Murloc Forcazulejo** (Nv. 6) — 170 PV, 14 armadura, 10 res. mágica. Miraña 22-36 con Sangrado (7/3); Golpe de Lanza 18-30.
 **💥 XP — 2.500 – 4.000**
 
 > «Poco después abandona el camino principal. El carruaje toma una senda que ninguno de vosotros recuerda haber visto señalizada.
