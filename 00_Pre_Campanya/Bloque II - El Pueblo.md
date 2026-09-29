@@ -45,6 +45,12 @@ Progresión de la línea en tres fases, planteada como "rastrear y cazar", no co
 
 3. **El enfrentamiento (o la negociación).** Si el grupo intenta tocar, romper o llevarse el tótem, el furbolg ataca (defiende su territorio de la corrupción), al que pueden sumarse más furbolgs si la tensión escala. Si el grupo se retira, usa un tótem identificado de Gavin para reconocer las marcas, o intenta tranquilizar al furbolg (dejando armas, compartiendo carne, alejándose del tótem), el furbolg puede guiarlos o dejar vía: son hostiles por desesperación, no por malicia. La resolución de aquí conecta con "La mina" (lo que confirman en el bosque es lo que el grupo de investigación reconstruye en el pueblo).
 
+> **🎭 Balance — techo de peligro (4 jugadores, Nv 5-7):** con el grupo de caza (4 jugadores a Nv 5-7, ~1.000-1.100 PV y ~140 daño/turno en total):
+> - **1-2 enemigos** (Wolf Alpha solo, o 1 Lancer + Wolf) → cómodo, sin riesgo real.
+> - **3 enemigos** (2 Lancer + Wolf, o 2 Lancer + 1 Espadachín) → **aquí empiezan a tener problemas**: ~150 daño/turno entrante, agotando el pool en 6-7 turnos justo cuando cae el último. Salvable con curación, apurado sin healer.
+> - **4+ enemigos** a la vez → derrota muy probable: ~190-200 daño/turno entrante; solo sobrevive un grupo con 2 healer o con mucha suerte.
+> - **Mul MÁXIMO simultáneo: 3.** Nunca subir Segadores (Nv 15-18, 760+ PV) u otros añadidos grandes a un combate con 3+ enemigos ya en mesa. La armadura del Espadachín (55) reduce el daño físico un 34%: absorbe el doble de castigo que un Lancer, así que cuenta como ~1,5 enemigos.
+
 **💥 XP — 9.000 en total en los enfrentamientos (ir dándolos poco a poco, lo que falte al final)**
 ### Grupo A — La posada, la herrería y el ayuntamiento
 
