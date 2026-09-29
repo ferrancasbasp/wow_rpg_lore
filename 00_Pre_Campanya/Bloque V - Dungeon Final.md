@@ -1,6 +1,6 @@
 # Bloque V — La fortaleza del reloj
 
-> **Progresión:** Fin de travesía → nivel 25
+> **Progresión:** Fin de travesía → nivel 25 (el DM sube al grupo directo a 25 antes del raid; no se reparten XP en juego)
 
 Bueno chavales vamos esta es la ultima parada y nos volvemos para casa ya tengo todo lo que necesitamos. (Tiene los discos titanicos con el en una carreta de mano)
 ## Llegada a la fortaleza
