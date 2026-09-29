@@ -115,6 +115,8 @@ En esta cueva esperan los tres élites piratas: **Vilhun, el Corsario**, **Deads
 - Atrae al resto del grupo a roles de apoyo: mantener al caster vivo, romper el Aturdido del Temblor, absorver la agresión del Puñetazo.
 - Es el encuentro de "emparejamientos": examina si el grupo sabe componer (quién va con quién) además de salir suelto.
 
+> **🎭 Nota de DM — Garzuk es kitearrable:** los Puñetazos no son imparables: si el grupo separa al kiter del corte a distancia, Garzuk pierde turnos de puñetazo y el combate se vuelve apurado pero ganable incluso 2v1. **El Temblor (stun) no se tira casi nunca**: queda reservado como herramienta de presión cuando el DM ve que el grupo va demasiado cómodo, o para castigar un kite mal ejecutado (kiter cazado sin salida).
+
 ## Cueva 3 — El santuario de Vhalgrim (jefe adaptativo con refuerzos)
 
 ### Descripción al entrar
