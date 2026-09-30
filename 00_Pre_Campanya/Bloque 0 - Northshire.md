@@ -3,6 +3,8 @@
 > **Progresión:** Nivel 1 (punto de partida)
 > 
 > **Función:** Premisa del one-shot y primer contacto de los jugadores con el mundo antes de la carretera. Conversaciones y últimas decisiones.
+>
+> 🎵 **Música:** **Solanine** — de fondo mientras presentan personajes y suben al carruaje. ([Lista completa](Música por Escenas.md))
 
 ## Los aventureros
 

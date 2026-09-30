@@ -3,6 +3,8 @@
 # Bloque II — El pueblo
 
 > **Progresión:** Nivel 5 → aproximadamente nivel 10/15
+>
+> 🎵 **Música por escenas:** **Duskwood** (ambiente del pueblo) → **Detective Conan Main Theme** (investigación y puzle M/G/S/D) → **Fight On!** (cacería, wolf alpha y furbolgs). ([Lista completa](Música por Escenas.md))
 
 ## Darkshire — llegada y nuevos encargos
 

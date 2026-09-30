@@ -1,6 +1,8 @@
 # Bloque IV — Islas Dragón y ciudad
 
 > **Progresión:** Nivel 20+ → nivel 25
+>
+> 🎵 **Música:** *(sin tema propio en la playlist — reutilizar un tema tranquilo del Bloque 0 o silencio ambiente mientras exploran la ciudad).* ([Lista completa](Música por Escenas.md))
 
 ## La llegada
 

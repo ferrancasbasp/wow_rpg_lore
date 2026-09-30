@@ -1,6 +1,8 @@
 # Bloque I — La carretera
 
 > **Progresión:** Nivel 1 → aproximadamente nivel 5
+>
+> 🎵 **Música por escenas:** **Corridors of Time** (viaje) → **Battle! Wild Pokémon** (primera emboscada 4+4) → **Tarrey Town** (parada libre) → *Man Enough* si la parada se alarga → **I AM MURLOC** (Crystal Lake) → **Lost Woods** (entrada a Duskwood). ([Lista completa](Música por Escenas.md))
 
 ## Salida de Northshire
 

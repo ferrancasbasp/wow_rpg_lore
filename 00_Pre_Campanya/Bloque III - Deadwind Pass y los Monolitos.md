@@ -1,6 +1,8 @@
 # Bloque III — Deadwind Pass y los tres monolitos
 
 > **Progresión:** Nivel 15 → aproximadamente nivel 20+
+>
+> 🎵 **Música por escenas:** **He's a Pirate** (cueva 1 — Vilhun/Deadshot/Ruzal) → **Sandstorm** (cueva 2 — Garzuk) → **Megalovania** (cueva 3 — Vhalgrim). ([Lista completa](Música por Escenas.md))
 
 ## Salida de Duskwood
 
